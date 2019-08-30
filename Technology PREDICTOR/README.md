@@ -47,11 +47,10 @@ The dataset consits of the following attributes
 * Target Attribute
     * Decipline
      
+## Documentation
+Project Porposal [Click to Download](./DOCS/AICT_Proposal.docx)
 
-> ### Project Porposal [Click to Download](./DOCS/AICT_Proposal.docx)
-
-
-> ### Project Report [Click to Download](./DOCS/AICT_Project_Report.docx)
+Project Report [Click to Download](./DOCS/AICT_Project_Report.docx)
 
 ---
 
