@@ -1,0 +1,1252 @@
+No. Name Father's Name Surname District U/R CPN Discp.
+1 12826 Captain Hamza Samoo Ghulam Rasool Samoo Samoo Badin U 75.840 CE
+2 14012 Ms. Shifa Abdul shakoor Khatri Badin U 70.643 ME
+3 15933 Faizan Ahmed Muhammad Hamid Rajput Badin U 66.381 CH
+4 15573 MS. Ghulam Aisha Kanwal Ghulam Qadir Khatri Badin U 66.326 CS
+5 12612 Abdul Rab Muhammad Juman Talpur Badin U 66.241 ES
+6 12655 Hamza Saeed Saeed Iqbal Arain Badin U 66.002 CH
+1 14266 Ms. Aqsa Shabbir Hussain Arain Badin R 81.265 CS
+2 17707 Muhammad Ramzan Anwar Murtaza Muslim Kamboh Badin R 80.262 CE-T
+3 19939 MUHAMMAD AQIB MAZHAR AHMED KAMBOH Badin R 78.647 ME
+4 17003 Muhammad Mohsin Ali Muhammad Saleh Memon Memon Badin R 75.224 CE
+5 13448 Ms. Nida Zafar Zafarullah Sindhi pathan Badin R 75.167 SW
+6 13344 Neel Kanwal AshoThama Luhana Badin R 74.471 SW
+7 25100 Asjad Gul Gul Muhammad khatti Badin R 74.385 BM
+8 19785 Ali Nawaz Muhammad Ibrahim Khoso Badin R 74.311 CE
+9 12549 SHAHID RAZA ABDULLAH SOOMRO Badin R 72.753 CE
+10 25333 MS. Ushna Zaheer Muhammad Zaheer Arain Badin R 72.483 BM
+11 13736 Ashiq Ali Asad Ali Khuwaja Khuwaja Badin R 72.286 CE
+12 14449 Ms. Mahek Liaquat Almani Badin R 71.371 EL
+13 12786 Muhammad Ibrahim Ahmed Khatti Badin R 71.227 ME
+14 19828 asim ali javed iqbal memon Badin R 71.112 CE
+15 15894 Muhammad Waqar Abdul Jabbar Bhatti Badin R 71.096 SW
+16 12607 Ms. Iqra Khatri Abdul Ghaffar Khatri Khatri Badin R 70.860 CS
+17 12575 Awais Umrani Abdul razzaque Umrani Baloch Badin R 69.843 SW
+18 13096 Aon Shams Shamsuddin Memon Memon Badin R 69.009 MTE
+19 13155 Ghulam Rasool Karim Bux Panhwar Badin R 68.995 ME
+20 12496 MUHAMMAD UZAIR DR: MUSHTAQUE ALI MEMON MEMON Badin R 68.683 MTE
+21 12547 IMRAN RAB DINO SOOMRO Badin R 68.569 ME
+22 17227 Mufeez-u-Rehman Sibgatullah Memon Badin R 68.146 EL
+23 13925 SAHAD KARIM JAVED AHMED KHUWAJA KHUWAJA Badin R 67.968 SW-P
+24 12573 Taha Hussain Muneer Hussain Khuwaja Badin R 67.794 ME
+25 12553 Ali Gohar Abdul Karim Dal Badin R 67.587 El
+26 12913 SAQLAIN RAZA RIAZ HUSSAIN KHUWAJA Badin R 67.442 ME
+27 12692 Zulfiqar Ali Gul Muhammad Soomro Badin R 67.051 EL
+28 14252 Ms. Nimra Nawaz chohdry shah nawaz janjua Rajput Badin R 66.747 EL
+29 13125 Abrar ahmed Abdul ghafoor rahujo Badin R 66.449 El
+30 16025 Usama sajid Sajid Jat Badin R 65.901 CS
+31 13643 Mursal Furqan Muhammad Aijaz Athar Kumbhar Badin R 65.898 CS
+32 17633 Mahesh Kumar Chela Ram Permar Badin R 65.730 PG
+33 17013 Muhammad Daniyal Muhammad Yousuf Jahejo Badin R 65.339 PG
+34 12643 ali haider javed ali khowaja Badin R 65.331 IN
+35 13088 Muhammad Hafeez Muhammad Saleem Nizamani Badin R 65.200 CH
+36 12505 Muhammad Ali Muhammad Arif Talpur Badin R 65.160 TL
+37 17495 Mehboob Ahmed Muhammad Saleh Ahmedani Badin R 64.640 ES
+38 19839 MS. Mehtab Khalid Hussain Talpur Badin R 64.407 TL
+39 12543 Suhaib Alamgeer Memon Badin R 64.227 PG
+40 18470 Ms. Jotee Kumari Bhagwan Das Pahlani Badin R 64.066 ES
+41 17480 Faraz Sattar Abdul Sattar Memon Badin R 63.913 TL
+42 12616 Muhammad Awais Muhammad Ibraheem Chang Badin R 63.846 ES
+43 19941 RAJESH KUMAR NENO KOLHI Badin R 63.774 IN
+44 12707 Muzafar Ali Ghulam Rasool Talpur Badin R 62.889 TL
+45 19235 ABDUL WAHEED LASHARY ABDUL HAMEED LASHARY LASHARY Badin R 62.693 CE-K-P
+46 14225 Ashoke Kumar Rattan Kumar Thakur Badin R 62.546 TE
+47 18211 Adnan Khalid Khalid Mehmood Malik Badin R 62.419 TL
+48 10357 abdullah ibraheem muhammad ibraheem chang Badin R 62.410 ME-K-P
+49 14191 Irfan Ali Muhammad Ameen Kumbhar Badin R 62.220 IN
+50 19842 ASAD ALI ASGHAR ALI CHANG Badin R 62.025 TE
+51 13029 ZAHEER AHMED ABDUL REHMAN BHATTI Badin R 61.997 TE
+52 14154 Aaqib Javed Javed Ahmed Khowaja Badin R 61.982 EE
+53 17705 Azeem Abdul Aziz Memon Badin R 61.971 MN
+54 15978 Ansar Ali Muhammad Memon Badin R 61.515 EL-K
+55 16804 Sikander Ali Vikyo Sheedi Sheedi Badin R 61.360 AR
+56 12499 Fawad Hussain Manzoor Hussain Khuwaja Badin R 61.294 EE
+57 15667 shaheryar irfan ullah virk Badin R 60.999 TE
+58 19874 Muhammad Kashif Muhammad Ishfaque Rajput Bhatti Badin R 60.688 SW-K
+59 13403 SHAHBAZ ALI JAVED ALI KHASKHELI Badin R 60.639 AR
+60 12795 Ali Asghar Muhammad Hassan Khatti Badin R 60.622 MN
+61 18729 ALI RAZA LIAQUAT ALI RAJPUT Badin R 60.501 AR
+62 19973 Deepak Kumar Mohan Mal Sootahar Badin R 60.262 MN
+63 12890 MUHAMMAD AHSAN SIDDIQUE MUHAMMAD SIDDIQUE THEBO Badin R 60.225 ES-K
+64 17618 Muhammad Sulman Muhammad Hanif Kamboh Badin R 60.148 MT
+65 20036 MUHAMMAD YOUSIF MUHAMMAD SALEEM CHANNA Badin R 60.106 PG-K
+66 12864 Ms. Naila Abdul Jabbar Talpur Badin R 59.840 CRP
+67 13049 Zafer Ali Muhammad Yousif Chang Badin R 59.760 MT
+68 14030 Abu Sufyan Muhammad Ashraf Memon Badin R 59.752 PG-K
+69 12405 WASEEM AHMED AMJAD HUSSAIN BAJWA Badin R 59.748 MT
+70 17696 HUSNAIN IQBAL BHAMBHRO Badin R 59.729 CRP
+71 12545 MUHAMMAD AMIN MUHAMMAD HASSAN SOOMRO Badin R 59.407 CRP-P
+1 10093 Ms. Hira ghulam mustafa khaskheli Dadu U 80.853 SW
+2 10334 Ghulam Mustafa Masood Memon Dadu U 80.043 SW
+3 15940 Adnan Ali Khair Muhammad Memon Dadu U 75.989 ME
+4 25335 MS. PARAS ALTAF HUSSAIN GORAR Dadu U 75.971 BM
+5 16194 PAVESH KUMAR RAJ KUMAR MOTWANI Dadu U 74.803 EL
+6 15069 Buxial khan/Noman Nabibux Jokhio Dadu U 71.916 MTE
+7 10061 Waseem Ahmed Wali Muhammad Panhwar Dadu U 71.823 ME
+8 10530 Shah Abdul Latif Abdul Karim Memon Dadu U 70.688 PG
+9 10145 Muhammad Hunzallah Khan Abdul Rasheed Qureshi Dadu U 69.070 ME-K
+10 14707 wajid ali Deedar ali kolachi Dadu U 68.098 SW-K
+11 12567 Amun Uzair Sangi Dadu U 67.634 TL
+12 10172 DANYAL ALI ABDUL HAFEEZ QURESHI Dadu U 66.533 MT
+1 10475 Rashid Ali Muhammad Easa Rind Dadu R 83.903 CE-L
+2 11137 Muhammad Arif Muhammad Siddique Babar Dadu R 80.951 CE
+3 10695 Imdad Ali Muhammd Ali Lund Dadu R 78.766 CE
+4 14972 Shahzaman Khan Imam Buksh Vighio Dadu R 77.919 CE
+5 14859 Muhammad Yousif Muahmmad Umer Memon Dadu R 77.913 CE
+6 10719 Raja Ashiq Ali Ghulam Sarwar Panhwar Dadu R 77.797 CE
+7 14718 Zafar Ali Muhammad Siddique Panhwar Dadu R 77.485 EL
+8 11096 Ghulam Anwar Ghulam Hussain Panhwar Dadu R 76.919 SW
+9 17500 Murtaza ali Imdad ali Khooharo Dadu R 76.236 EL
+10 11813 Ali Mahdi Imam uddin Khoso Dadu R 76.049 EL-P
+11 10222 Munsif Ali Muharam Soomro Dadu R 76.032 EL
+12 15928 Masood Mujtaba Ghulam Mujtaba Jatoi Dadu R 75.245 EL
+13 14761 Asif Ali Arbab Ali Panhwar Dadu R 74.690 CE-K
+14 15890 Abdul Rafay Panhwar Shahid Hussain Panhwar Dadu R 74.360 ME
+15 18225 Shahbaz Qamar Maqbool Ahmed Panhwar Dadu R 73.917 ES
+16 14595 Shah Muhammad Ghulam Muhammad Lund Baloch Dadu R 73.903 SW
+17 15255 saleemullah hamid ali abro Dadu R 73.518 ME
+18 15348 Mehtab Ali Muhammad Khan Babar Dadu R 72.924 ME
+19 11076 Faisal Ali Muhammad Farooque Laghari Dadu R 72.920 ME
+20 15974 Aftab Ahmed Ghulam Hussain Mahesar Dadu R 72.242 ES
+21 14886 ALI KHAN AASHIQUE ALI LAKHAIR Dadu R 71.818 ME
+22 10553 Muhammad Zulkifal Zulfiqar Ali Soomro Dadu R 71.723 MTE
+23 16838 shamas uddin Allah bux kalhoro Dadu R 71.705 CH
+24 11058 Majid Ali Haji Ghulam Rasool Lund Dadu R 71.576 ES-P
+25 14958 Abid Ali Hafiz Ahmed Bux Panhwar Dadu R 71.407 CS
+26 15108 Ms. Moomal Rani Allah dino Samo Dadu R 71.348 ES
+27 12736 Dilshad Sadar Sadar-u-ddin Naich Dadu R 71.311 PG
+28 18616 Ali Murtaza Ahmed Khan Abro Dadu R 71.010 CH
+29 10959 Khalique Zaman Muhammad Zaman Saraz Dadu R 70.928 SW
+30 17294 ZAIGHUM ALI SHAH ZAINUL-ABIDEN SHAH SYED Dadu R 70.623 CH
+31 10248 MUHAMMAD AADIL ABDUL RASOOL CHANNA Dadu R 70.555 SW
+32 17006 Ms. Khadija Nazeer Ahmed Rind Baloch Dadu R 69.415 CS
+33 16494 JIBRAN MANZOOR Ahmed MAGSI Dadu R 69.397 MT
+34 16523 Adnan Ali Ali Asghar Mallah Dadu R 68.943 EL-K
+35 15114 Sagar Buland Ram Oad Dadu R 68.909 CS-P
+36 10581 Maqsood Ali Ghulam Hyder LUND Dadu R 68.808 EE
+37 18030 SHAHARYAR ALI ZULFIQAR ALI SINDHI PATHAN KUMBHAR Dadu R 68.634 TL
+38 14834 Ms. Mehak Muahmmad Umer Memon Dadu R 68.509 TL
+39 19742 FURQAN ALI ALTAF HUSSAIN CHANNA Dadu R 68.503 EE
+40 17368 Ali Baqir Allah Dad Balhro Dadu R 68.378 ES-K
+41 11088 Mehran ali Abdullah Chandio Dadu R 68.096 TL
+42 14866 Adnan Muhammad Yousif Shaikh Dadu R 68.068 TL
+43 16986 Ahmed Noor Aziz Ahmed Ansari Dadu R 67.582 AR-P
+44 19316 Iftikhar Raja Hadi Bux Dasti Dadu R 67.502 PG-K
+45 15286 Muhammad Yaseen Allah Dino Solangi Dadu R 67.484 MN
+46 15175 Abdul Samad Atta Muhammad Soomro Dadu R 67.409 AR
+47 20433 Mujeeb ul Rahman Abdul Rahman Qambrani Dadu R 67.346 BM-P
+48 15400 Basit Ali Muhammad Ali Magsi Dadu R 67.226 PG-K
+49 15074 Ghulam Muhammad Hussain Niaz Hussain Chandio Dadu R 66.939 CRP
+50 18012 Sanghar Khan Muhammad Sohrab Magsi Dadu R 66.911 TE
+51 16952 MS. NEELOFER MEMON GHULAM RASOOL MEMON Dadu R 66.836 TE-P
+52 14588 Jawed Bahadur Ali Sikandar Ali Chandio Dadu R 66.696 TE-P
+53 17640 Adnan Qurban Ali Solangi Dadu R 66.214 IN
+54 20107 Irfan Ali Qurban Ali Khoso Dadu R 65.762 TE
+55 15341 Muhammad Suleman Muhammad Saleh Mangi Dadu R 65.742 ES-K
+56 16357 Hamid Ali Zahooruddin Abbasi Dadu R 65.742 MN
+57 15967 Ali Raza Aadil Ghulam Rasool Chandio Dadu R 65.726 CRP
+58 16180 Zeeshan Ahmed Haji Ahmed Khokhar Dadu R 65.619 IN
+59 10122 AMMAR ALAM NAWAB ALAM ABRO QAZI Dadu R 65.489 IN
+60 16989 Nabeel Ahmed Nisar Ahmed Malik Dadu R 65.286 CRP
+61 18370 Waleed Bin Khalid Khalid Hussain Bughio Dadu R 65.198 MN-P
+62 19374 Awais Murtaza DR. Ghulam Murtaza Rahuja Dadu R 65.167 MT
+1 11858 SHEERAZ HUSSAIN HABIBULLAH THAHEEM Ghotki U 78.942 ME-K
+2 18221 Ali Jawaid Jawaid Akhtar Rajput Ghotki U 69.694 TL-P
+3 10949 Adnan Noor-UL-Hassan Dayo Ghotki U 69.664 PG-K
+4 11296 Aqib Ali Nizamuddin Abbasi Ghotki U 68.990 TE
+5 12115 Usama Shahbaz Jamal Ud Din Shaikh Ghotki U 66.955 MT
+1 17510 Mehtab Ali Shaukat Ali Malik Ghotki R 81.960 ME
+2 16980 Habib-ur-Rehman Bashir Ahmed Jalbani Ghotki R 81.881 EL
+3 10200 AMER ALI ALI ASGHAR MAHAR Ghotki R 81.570 CE
+4 15357 AYAZ AHMED ZULFIQAR SAMEJO Ghotki R 81.472 CE-K
+5 15426 Faraz Khan Muneer Ahmed Ghoto Ghotki R 78.769 CE-K
+6 20334 Ahsan Ali Noor Hassan Hakro Ghotki R 77.983 CH
+7 14921 Tanveer Ahmed Abdul Malik Bhatti Ghotki R 77.576 ES
+8 17600 Mohammad Iqbal Mohammad Islam khan Shar Ghotki R 77.450 CE-K
+9 16978 Najeeb-ur-Rehman Bashir Ahmed Jalbani Ghotki R 77.134 CH
+10 17281 Arbelo Mohammad Akram Khushk Ghotki R 75.454 ES
+11 25222 BANGUL KHAN MOHAMMAD QASIM LOLAI Ghotki R 74.349 BM
+12 15807 MOHAMMAD BILAL MOHAMMAD NASRULLAH RAJPUT Ghotki R 74.341 MTE
+13 14976 Akhtar Ali Nisar Ahmed Kalwar Kalwar Ghotki R 74.040 PG
+14 15137 Saad Qadir Ghulam Qadir Laghari Ghotki R 73.798 CE-K
+15 17017 Mir Hassan Noor Hassan Qazi Ghotki R 73.716 SW
+16 10701 SAHIB DINO GHULAM NABI BOOHAR Ghotki R 73.345 CE-K
+17 12037 Hassan mueez Asghar ali Rajput Ghotki R 72.508 ME-K
+18 17187 Abdul Salam Abdul Qadir Kalwar Ghotki R 72.413 EL-K
+19 15762 Mushahid Hussain Fida Hussain Drigh Ghotki R 72.375 SW
+20 15092 Asif Ali Adam Ali Solangi Ghotki R 72.283 PG
+21 10367 Mohammad Naeemullah Khan Ali Nawaz kolachi Ghotki R 72.127 EL-K
+22 15135 Arslan Ibrar Ibrar Hussain Pitafi Ghotki R 72.111 EL-K
+23 15000 Basit Ali Adam Ali Solangi Ghotki R 71.961 EL-K
+24 20116 Adnan Ali Allah Rakhio Pathan Ghotki R 71.549 CS
+25 18368 Sajid Ali Hadi Bux Ruk Ghotki R 71.476 ME-K
+26 15535 Ranjeet Kumar Aishi Lal Hindu(Andani) Ghotki R 71.459 CS
+27 10747 Muhammad Azeem Muhammad Murad Malik Ghotki R 71.363 ME-K
+28 12440 Shah Faisal Muhammad Luqman Lanjar Ghotki R 71.170 ES-K
+29 10854 Saeed Ahmed Hidayatullah Kalwar Ghotki R 70.833 ME-K
+30 10071 Amir Hussain Ghulam Akbar Dashti Ghotki R 70.797 ES-K
+31 14927 Anees Ahmed Shah Mazhar Ali Shah Syed Bukhari Ghotki R 70.536 SW-K
+32 10302 Imtiaz Hussain Khuda Bux Sheikh Ghotki R 70.482 IN
+33 17241 Junaid Ahmed Shahmir Shar Shar Ghotki R 70.224 EE
+34 11138 Ghulam Yaseen Bhoro Sud Ghotki R 70.089 SW-K
+35 15789 Muhammad Usama Abdul Sami Soomro Ghotki R 70.086 TL
+36 19851 MOHAMMAD QABIL LOUNG KHAN GADANI Ghotki R 69.926 AR
+37 10752 Abdul Wahab Atta Mohammad Malik Ghotki R 69.876 AR
+38 12295 ALI BUX HAQ NAWAZ JUNO Ghotki R 69.813 PG-K
+39 10492 khalid ahmed mohammad hassan lakhan Ghotki R 69.677 TL
+40 12109 MUNAWAR ALI AKHTAR ALI JHATIAL Ghotki R 69.614 PG-K
+41 19876 Zarar Ahmed Mohammad Malook Malik Ghotki R 69.515 IN
+42 15002 Abrar Hussain Muzaffar Hussain Mahar Ghotki R 69.455 CRP
+43 12043 ABDUL MAJID MUHAMMAD YOUNIS LAKHAN Ghotki R 69.084 ES-K
+44 12076 Zameer Ahmed Khuda Bux Kalhoro Ghotki R 68.999 SW-K
+45 17493 Allahyar Abdul Hameed Shar Ghotki R 68.814 PG-K-P
+46 19208 Sajjad Ali Muhammad Alim Tagar Ghotki R 68.738 SW-K
+47 19769 Atteq Ahmed Wazeer Ahmed Ghoto Ghotki R 68.509 MT
+48 17123 FARHAN ZAHID Zahid Hussain JALBANI Ghotki R 68.460 TE
+49 10996 Muhammad Idrees Ghulam Sarwar Qazi Ghotki R 68.307 MT
+50 11963 Muhammad Daud Abid Ali Kolachi Ghotki R 68.148 MN
+1 16003 Ali Raza Dr. Amanullah Jhatial Jhatial Hyderabad U 83.519 CE
+2 14040 MUHAMMAD SAIM MUHAMMAD NAEEM SHAIKH Hyderabad U 82.588 ME
+3 10402 Muhammad Mudassir Ghulam Muhammad Baloch Hyderabad U 81.181 CE
+4 17411 Ms. ANABIA SAEED SAEED-UZ-ZAMAN SHAIKH Hyderabad U 81.050 SW
+5 18215 Ms. Rubab Muhammad Iqbal Pathan Hyderabad U 79.717 EL
+6 17092 MS. Zainab Khan Muhammad Younus Khan Pathan Hyderabad U 79.445 SW
+7 14435 Mujeeb Gohar Jamil AhmEd Qazi Qazi Hyderabad U 77.109 ME
+8 14660 Saif Ur Rehman Shafiq Ur Rehman Memon Hyderabad U 77.097 ME
+9 13028 Ms. Hiba Muhammad Naeem Rajput Hyderabad U 77.027 CS
+10 13660 Muhammad Humayoun Saeed Muhammad Saeed Shaikh Hyderabad U 76.707 ME
+11 17767 MS. NATASHA AFAQUE SYED AFAQUE ALAM SYED Hyderabad U 76.622 SW
+12 10301 Ms. Syeda sualiha nihal Syed nihal ahmed Syed Hyderabad U 76.501 CS
+13 15480 MUHAMMAD ANAS ABDUL NASIR SHAIKH Hyderabad U 76.431 ME
+14 15524 Ms. UROOBA IMRAN MEMON Hyderabad U 76.187 AR
+15 10013 MS. Um-e-farwa Zaffar ul haque Bhatti Hyderabad U 76.033 TL
+16 14180 WAZIR ALI MUHAMMAD AFTAB RAJPUT RAJPUT Hyderabad U 75.980 ME
+17 11938 Muhammad Talha Ansari Muhammad Ilyas Ansari Ansari Hyderabad U 75.855 CH
+18 13815 Ms. Maryam Anwar Pathan Anwar Arif Pathan Hyderabad U 75.800 SW
+19 10598 Arsal Mehmood Mehmood Nasir Hyderabad U 75.687 EL
+20 10136 MS. FATIMA RAZA RIZWAN RAZA KHANZADA Hyderabad U 75.555 EL
+21 10926 Muzamil Ahmed Ghulam Ali Shaikh Hyderabad U 75.263 EL
+22 11899 Hasham Qureshi Waheed AnwAr Qureshi Qureshi Hyderabad U 75.112 CE
+23 12437 Muhammad Mustafa Tariq Muhammad Tariq Rajput Bhatti Hyderabad U 75.090 CE
+24 11947 Ms. Hiba Muhammad Hesan ul Haque Sheikh Hyderabad U 74.947 SW
+25 17924 MUHAMMAD AWAIS ZULFIQAR ALI SOLANGI Hyderabad U 74.841 CE
+26 15620 HUZAIFA HASSAN Muhammad Noman Qureshi Hyderabad U 74.836 EL
+27 17088 MS. Siddiqa Batool Abdul Ghaffar Panhwar Hyderabad U 74.799 EL
+28 12646 Ms. Noor Fatima Memon Jawaid Habib Memon Hyderabad U 74.706 MTE
+29 25323 MS. FAZLAH MUMSHAD AHMED KHAN KHAN Hyderabad U 74.684 BM
+30 11783 Ms. fazila kanwal abdul hai shaikh Hyderabad U 74.514 CH
+31 11737 Muhammad Usama Habib ur Rehman Arain Hyderabad U 74.443 SW
+32 16055 Muhammad Abdullah Faheem Abdul Faheem Rajput Hyderabad U 74.351 ES
+33 12186 Ammar Khan Muhammad Iqbal khan Hyderabad U 74.349 ES
+34 18042 Hassan Raza Zahid Ali KAZI Kazi Hyderabad U 74.139 CS
+35 12904 Saad Ahmed Irfan Ahmed Shaikh Hyderabad U 74.066 ES
+36 15740 Syed Farrukh Ali Syed Perwaiz Ali Syed Hyderabad U 74.017 ES
+37 13588 Abdul Ahad Abdul Wahab Memon Hyderabad U 73.991 ES
+38 18033 Ms. Rukhsar Sajid Mehfooz Ali Pathan Hyderabad U 73.960 TE
+39 19777 Syed Mashad Raza zaidi Ameer hassan zaidi Syed Hyderabad U 73.943 CS-P
+40 17474 Uzair Ali Abdul Sattar Shaikh Hyderabad U 73.820 ES
+41 14185 Ms. NIMRAH Saeed ABDUL SAEED KHAN YOUSUF ZAI Hyderabad U 73.793 CS
+42 10423 Saqib Ali Ghulam Ali Ghouri Hyderabad U 73.751 CS
+43 12866 Ms. MUNNUZZA NAEEM NAEEM AHMED KHAN KHAN Hyderabad U 73.745 CS
+44 10182 AHSAN QADEER ABDUL QADEER SHAIKH Hyderabad U 73.735 CS
+45 15577 SHAHABUDDIN MOINUDDIN QURESHI Hyderabad U 73.574 PG-P
+46 18716 Mansoor Raza Naeem Raza Memon Memon Hyderabad U 73.527 EE-P
+47 17236 Najeey ullah Imdad ullah Hyderabad U 73.513 TL-P
+48 13899 Areeb Waqar Waqar Ahmed Shaikh Hyderabad U 73.489 MTE
+49 15847 Ms. ZONERA ABDUL ALEEM SHAIKH SHAIKH Hyderabad U 73.283 TL
+50 10837 Asad Ali Mian Muhammad Hanif Arain Hyderabad U 73.254 MTE
+51 13973 Ms. Manahil Kazmi Ismail Shah Syed Kazmi Hyderabad U 72.979 TL
+52 16000 Asadullah Jamil Ahmed Qureshi Hyderabad U 72.749 TL
+53 11880 Asad ullah Khan Zaheer Ahmed Khan Pathan Hyderabad U 72.729 TL
+54 11854 Ms. Fatahayya Tariq Mansoor Qureshi Hyderabad U 72.521 PG
+55 15869 Ms. samrah shahid shahid jamil pathan Hyderabad U 72.457 TL
+56 12757 Ms. Aisha Noor Dr. Noor Ahmed Soomro Soomro Hyderabad U 72.311 AR
+57 12278 Ms. Maryam Jalees Ahmed Shaikh Shaikh Hyderabad U 72.234 AR
+58 13475 Mohammad Shahwar Khan Amir Ashraf Khan Hyderabad U 72.197 BM
+59 19498 MS. um-e-habiba ghulam nabi memon Hyderabad U 72.051 TE
+60 14334 Muhammad Haris Saleem Dr Saleem ul hassan Siddiqui Hyderabad U 71.617 MT-P
+61 16878 Shahrukh Mahesar Shah Muhammad Mahesar Mahesar Hyderabad U 71.489 IN-P
+62 12312 Hassaan Abbasi Inayat ullah Abbasi Abbasi Hyderabad U 71.426 EL-K
+63 12192 Abdul Rafay Aftab Ahmed Siddiqui Hyderabad U 71.200 IN
+64 19649 Arsalan Muhammad Waseem Rao Hyderabad U 71.193 IN
+65 15570 Ms. Safa Memon Shabeer Ahmed Memon Hyderabad U 71.083 TE
+66 12819 Muhammad Mubashir Muhammad Ikram Shaikh Hyderabad U 70.980 CE-K
+67 13760 Ms. Umna Fatima Shahab Ahmed Faridi Faridi Hyderabad U 70.937 TE
+68 15632 Zunair aziz Sohail aziz Shaikh Hyderabad U 70.910 IN
+69 10564 Jibran baig Altaf Baig mughal Hyderabad U 70.789 CRP
+70 20518 Ms. AIMAN RAFIQUE MUHAMMAD RAFIQUE QAZI Hyderabad U 70.767 MN
+71 15717 MS. Batul shabbir anjarwala anjarwala Hyderabad U 70.710 EE
+72 19666 MUHAMMAD FAWAD HUSSAIN HAMID HUSSAIN SHAIKH Hyderabad U 70.695 ME-K
+73 10971 Sarosh haider Waseem ahmed Rajput Hyderabad U 70.610 ME-K
+74 13632 Ms. Nimra Muhammad Younus Siddique Hyderabad U 70.583 CRP
+75 10893 Ms. Ifrah Maheen Jawaid Ahmed Shaikh Siddique Hyderabad U 70.545 CRP
+76 13459 AGHA FAISAL REHMAN AGHA MUHAMMAD NAJEEBULLAH PATHAN Hyderabad U 70.506 MT-P
+77 10118 Talha Nisar Ansari Hyderabad U 70.479 CRP
+78 14300 MS. NIMRA TARIQ JAWAID NATT Hyderabad U 70.378 ES-K
+79 10413 Ms. Maheen Muhammad Aslam Qureshi Hyderabad U 70.243 SW-K
+80 15812 Aarish Khowaja Al-Amin Khowaja Hyderabad U 70.226 CE-K
+81 17240 Abdur rehman Mohammad Arshad SiddiquE Siddiqui Hyderabad U 70.047 EL-K
+1 10084 ZAKIA ALI Ali Hussain Shah Syed Hyderabad R 82.171 CE
+2 13171 MS. Aniqa Saleem Saleem Waheed Rajput Hyderabad R 78.850 SW
+3 10772 Laique Ali Zahid Mustafa Rajput Hyderabad R 77.958 ME
+4 17144 Asfandyar Talpur Mir Mohsin Talpur Talpur Hyderabad R 77.210 ME
+5 10372 Hassan Raza Gulzar Ali Lund Baloch Hyderabad R 76.301 CE
+6 11861 Ahsan shaikh Saad ullah shaikh Shaikh Hyderabad R 75.677 EL
+7 18595 Syed Nawaz Ali Shah Rakhyal Shah Syed Hyderabad R 73.544 PG
+8 18406 Shadab Ali Mumtaz Ali Gadahi Hyderabad R 72.108 MT
+9 20040 Ms. Bisma Muhammad Aslam Soomro Hyderabad R 71.687 AR
+10 13107 Ahsan Rashid Abdul Rashid KHANZADA Hyderabad R 71.637 EE
+11 14385 Ms. Paryanka Devi Arjan Kumar Rajput Hyderabad R 71.411 TE
+12 17169 Faraz Shaikh Naeemullah Shaikh Shaikh Hyderabad R 70.120 MN
+13 16373 Lajpat Kumar Asan Das Sootahar Hyderabad R 69.049 MN
+14 13544 MS. Faiza Bano Mughal Mirza Fareed Ahmed Mughal Hyderabad R 68.401 CRP
+15 13221 Bilal Ahmed Azizullah Bhatti Bhatti Hyderabad R 67.418 PG-K
+16 18464 ALI MUHAMMAD SHAHID MEMON MEMON Hyderabad R 66.137 MN
+17 12124 NOMAN AHMED SHORO MUHAMMAD QASIM shoro SHORO Hyderabad R 65.891 SW-K
+1 11871 Haseeb Ahmed Mukhtiar Ahmed Mangrio Jacobabad U 71.691 CH
+2 18089 Shahbaz Ali Muhammad Hanif Manjhoo Jacobabad U 65.536 PG-K
+3 14078 JUNAID AHMED LUTFULLAH BHUTTO Jacobabad U 63.874 BM
+4 12080 Ms. Falak Naz Maqsood Ahmed Soomro Jacobabad U 63.376 CRP
+5 16100 MUHAMMAD SHAHIRYAR ARSHAD MUHAMMAD ARSHAD KHOKHAR Jacobabad U 62.432 IN
+6 17179 shahzeb Aftab Ahmed Qazi Jacobabad U 61.052 SW-K
+7 13767 Muhammad Basit Ali Rashid Ali Pathan Jacobabad U 60.567 SW-K
+1 15876 Naveed Muhammad Ali Khoso Jacobabad R 84.893 CE
+2 17064 Shahbaz Khan Muhammad Mureed - Jacobabad R 75.013 EL
+3 20197 Bilawal Ali Arbab Ali Mahar Jacobabad R 73.134 ME
+4 11841 MOHSIN ALI MUHAMMAD HASSAN SOLANGI Jacobabad R 72.473 EL-K-P
+5 12142 Masroor Ahmed Qabool Muhammad Odho Jacobabad R 71.458 CE-K
+6 12028 Muhsin Ali Rab Nawaz Noonari Jacobabad R 71.450 CE-K
+7 15548 MUHAMMAD AWAIS MUHAMMAD SIDDIQUE MIRANI Jacobabad R 71.361 CS
+8 17346 Yasir Ali Shah Shabir Ahmed Shah Syed Jacobabad R 69.656 EL-K
+9 11863 NAJIULLAH Abdul Hameed Sarki Jacobabad R 69.640 ES
+10 19822 Masood Ahmed Aijaz Ahmed Khoso Jacobabad R 69.637 MTE
+11 12020 Azhar ali Muzafar Ali Channa Jacobabad R 69.619 ES
+12 12016 Shahbaz Ali Ayaz Ahmed Abro Jacobabad R 69.547 EL-K
+13 12046 Faheem Ahmed Muhammad Khan Soomro Jacobabad R 69.523 ME-K
+14 15185 ABDUL WADOOD AMEER BUX BURIRO Jacobabad R 69.236 CH
+15 16069 Suhno Khan Lal Muhammad Rahujo Jacobabad R 69.182 ME-K
+16 11851 Niaz Ahmed Ihsan Ahmed Khoso Jacobabad R 69.031 PG
+17 11431 Ahsan Ali Bilal Ghulam Nabi Ansari Jacobabad R 68.243 ME-K
+18 11833 IRFAN ALI ASGHAR ALI DOMKI Jacobabad R 67.989 PG
+19 11905 MUHAMMAD ZUHAIB MUHAMMAD ISHAQUE ANSARI Jacobabad R 67.813 SW
+20 17467 Mir Allah dino Liaquat Ali Bhutto Jacobabad R 67.389 TL
+21 12018 Fayaz Ahmed Ayaz Ahmed Abro Jacobabad R 67.283 ES-K
+22 13677 Muhammad Tayab Muhammad Ismail Jacobabad R 66.851 ES-K
+23 15018 Seerat Ali Nisar Ahmed Buriro Jacobabad R 66.691 PG-K
+24 11901 SAMANDAR KHAN SIKANDAR ALI DOMKI Jacobabad R 66.404 EE
+25 12349 Abdul Rehman Abdul Wahid Sarki Jacobabad R 66.139 TE
+26 11934 Gul Muhammad Dost Muhammad Soomro Jacobabad R 65.939 CS
+27 13655 Shoaib Javed Javed Ahmed Khoso Jacobabad R 65.860 SW
+28 11951 Zeeshan Abdul Nabi Pahore Jacobabad R 65.669 Tl
+29 12050 Muhammad Nawaz Saeed Ahmed Pahore Jacobabad R 65.247 AR
+30 12198 Sarmad Irshad Ahmed Bhanger Jacobabad R 64.414 AR
+31 18251 Kashif Ali Ashique Hussain - Jacobabad R 64.288 MT
+32 12222 Muhammad Umar Sikandar Pahore Jacobabad R 63.888 IN
+33 17894 FIDA HUSSAIN INAYATULLAH SOOMRO Jacobabad R 63.884 CRP
+34 12101 Ghazanfar Ali Zafar Ali Noonari Jacobabad R 63.595 MN
+35 19392 MS. Iqra Ayaz Ayaz Ahmed NoOnari NoOnari Jacobabad R 63.580 TE
+1 10420 AFZAL AHMED IFTIKHAR ALI AWAN Jamshoro U 82.375 ME
+2 10117 MUHAMMAD AMMAR YASIR ABDUL SALEEM MUGHAL Jamshoro U 74.067 EL
+3 15539 MS. Fiza Azam Muhammad Azam Channa Chana Jamshoro U 74.049 SW
+1 12593 Azhar Ali Bilawal Uddin Memon Jamshoro R 79.284 CE
+2 14358 Ghulam Murtaza Ahmed Ghuryani Mallah Jamshoro R 79.207 CE
+3 12749 Gul Muhammad Maqbool Ahmed Memon Jamshoro R 76.751 CE
+4 13646 Ms. Komal Ghani Abdul Ghani Laghari Jamshoro R 75.891 ES
+5 13794 RIAZ HUSSAIN MUHAMMAD ISMAIL CHANA Jamshoro R 74.545 EL
+6 12564 Muhammad Hussain Siddique Umrani Jamshoro R 73.318 EL
+7 13761 Mohammad Zuhaib Abdul Aziz Ghanghro Jamshoro R 72.520 ME
+8 14442 ABID ALI ATTUR KHAN JAMALI Jamshoro R 71.722 ME
+9 13940 Ms. Touqeer Fatima Ranjhan khan Langah Jamshoro R 70.774 SW
+10 15690 Akash Ali Ali Nawaz Mallah Jamshoro R 70.661 ES
+11 18465 MS. Iqra Asghar Asghar Hussain Ansari Jamshoro R 70.447 CS
+12 25267 Ms. FARWA PIR BAKHSH BHALAI Jamshoro R 70.017 BM-P
+13 13820 raj prem pohu mal/ premchand lohano Jamshoro R 69.701 ES
+14 16659 Malik Muhammad Saif Muhammad Mumtaz Malik Jamshoro R 69.564 PG-P
+15 12520 MUHAMMAD ASAD QURESHI MUHAMMAD SHAMIM QURESHI QURESHI Jamshoro R 69.489 CH
+16 12898 Tarique Hussain Muhammad Umar Jamali Jamshoro R 69.262 CS
+17 17724 Rehan Ali Shahzado Domki Jamshoro R 68.900 CS
+18 17383 Ms. Lajvanti Dr. Ashok Kumar Ratnani Jamshoro R 68.572 TL
+19 25479 MS. Komal Haji Qamar Udin Memon Jamshoro R 68.335 BM
+20 16877 Muhammad Salim Jamil Ahmed Chandio Jamshoro R 68.228 MTE
+21 13739 Mohsin Abbas Abbas Alamdar Rahopoto Jamshoro R 68.202 TL
+22 20189 ALI MUHAMMAD MUHAMMAD HANIF LAKHO Jamshoro R 68.201 TL
+23 14355 Abdul Rafay Abdul Hafeez Kandhir Jamshoro R 67.402 EE-P
+24 14162 Muhammad Aashir Badar ud din Memon Jamshoro R 66.957 SW-K-P
+25 15521 Adnan Ahmed Abdul Qayoom Channa Jamshoro R 66.833 TE
+26 15499 Fahad Abdul Qudoos Channa Jamshoro R 66.818 TE
+27 30016 MS. Rawa Rabail Muhammad Irshad Khan Awan Pathan Jamshoro R 66.719 ES-K
+28 20162 Ms. Qurat ul ain Qamer ul Haque Ansari Jamshoro R 66.679 AR
+29 13898 Mubashir Muhammad Juman Memon Jamshoro R 66.628 CE-K
+30 15791 Juma Khan Muhammad Siddique Chohan Jamshoro R 66.445 EL-K
+31 14080 MS. AISHA KHUDA BUX MALLAH Jamshoro R 66.116 PG
+32 12800 Faisal Ali Aijaz Ali Suhag Jamshoro R 66.006 AR
+33 20083 MUHAMMAD UBAID FAZAL WAHAB Yousuf Zai Pathan Jamshoro R 65.861 IN
+34 11981 Nabeel Muhammad iqbal otho Jamshoro R 65.572 MT
+35 13108 Meer Zafarullah Muhammad Malook Noohani Jamshoro R 65.109 PG-K
+36 13106 Asad Ali Dall Muhammad Saffar Dall Dall Jamshoro R 64.990 MN
+37 18631 Abdul Salam Abdul Rauf Mallah Jamshoro R 64.684 CRP
+38 17008 MUHAMMMAD ABID MEMON MUHAMMAD RASHID MEMON Jamshoro R 64.522 CRP-P
+1 10592 Babar Ali Shaikh Ashfaque Ahmed Shaikh Kambar U 79.022 CS
+2 10275 ZUBAIR Ali SHAHBAN ALI SHAIKH Kambar U 74.348 CE-K
+3 10812 ZOHAIB AHMED GHULAM YASEEN MEMON Kambar U 72.938 EL-K
+4 15615 MS. Touqeer Fatima Muhammad Panah Soomro Kambar U 72.534 IN-P
+1 10312 MOHSAN ALI HASSAN ALI CHHAJRO Kambar R 81.605 CE
+2 10223 SARFARAZ AHMED MUJEEB U REHMAN JALBANI Kambar R 81.551 EL
+3 12154 Mudeer Ahmed Ghazi khan Chandio Kambar R 80.927 ME
+4 10800 Ahmed Faraz Ather Ali Mahesar Kambar R 79.381 CH
+5 14915 Tahir Hussain Muhammad Ayub Magsi Kambar R 76.936 SW
+6 10705 Aafaque Hussain Arbab Ali Lolai Kambar R 76.730 CE-K
+7 15538 Ghulam Murtaza Inayat ullah Lohar Kambar R 76.611 MTE
+8 15050 MS. FIZA AIJAZ ALI Kambar R 76.600 AR
+9 10494 Shah jahan Liaquat Ali Soomro Kambar R 76.356 ES
+10 15306 ASFAND ALI BAHAWAL KHAN MUGHERI Kambar R 76.340 ES
+11 10087 Zegham Abbas Shah Khalil Rehman syed Kambar R 75.936 PG
+12 18757 Shakeel Ahmed Muhammad Mashooque Soomro Kambar R 75.848 CS
+13 15611 Ms. Abida Parveen Niaz Hussain Abro Kambar R 75.798 SW
+14 11631 ABDUL BASIT IMAMUDDIEN BROHI Kambar R 75.433 PG
+15 16499 Ahmed Khan Muhammad Sharif Janwari Kambar R 74.912 CH
+16 10503 Farhan Ali Abdul Sattar metlo Kambar R 74.419 TL
+17 18289 Bilawal Abdul razaque Gaincho Kambar R 73.302 EL-K
+18 14635 Ms. Rehana Yaseen Muhammad Yaseen Kalhoro Kambar R 72.986 TL
+19 16917 Junaid Ahmed Ahmed Khan Sohu Kambar R 72.888 EE
+20 16928 ABDUL KARIM ABDUL SATTAR SOOMRO Kambar R 72.210 EL-K
+21 10159 Asmatullah Naimatullah Kandhro Kambar R 72.187 MT
+22 10202 Singhar Ali Mahamood Ali Pathan Kambar R 72.157 MT
+23 25074 Shahjahan Azam Ali Mahesar Kambar R 72.002 BM
+24 17363 ABDUL KHALIQUE HAMID ALI TUNIO Kambar R 71.645 ME-K
+25 14725 Abdul Majid Khadim Hussain Lakho Kambar R 71.562 ES-K
+26 10169 Adeel khan Irshad Ali kamalani Kambar R 71.512 ME-K
+27 10242 Ali Asghar Deedar Hussain Chandio Kambar R 71.365 ME-K
+28 10453 SHABIR AHMED BASHEER AHMED SHAIKH Kambar R 71.355 SW-K
+29 16913 Atif Irshad Irshad Ali Kandhro Kambar R 71.304 TE
+30 17237 murtaza manzoor manzoor ali tunio Kambar R 70.834 ES-K
+31 19729 Irfan Ali Abdul Kareem Khokhar Kambar R 70.499 AR
+32 19201 Irfan Ali Lal Dino Mugheri Kambar R 70.063 PG-K
+33 18202 MASOOD AHMED NOOR AHMED MUGHERI Kambar R 70.000 MN
+34 10403 Habib-u -Rehman Siraj Ahmed Brohi Kambar R 69.796 SW-K
+35 10392 ZAIN UL ABIDEEN ABDUL NABI BROHI Kambar R 69.065 TE
+36 18744 FURQAN ALI GHULAM RASOOL BROHI Kambar R 69.049 CRP
+37 15914 IRFAN ALI GHULAM FAREED KHOSO Kambar R 68.780 CRP
+38 15871 Younas Bashir Ahmed Chandio Kambar R 68.715 PG-K
+1 18638 Muhammad Irfan Abdul Qadir Karachi U 81.205 ME-K
+2 15072 VINEK VIKRAM VIKRAM Karachi U 78.653 SW
+3 11467 Haider Ali Aijaz Ali Karachi U 76.757 ES
+4 11603 MOAZZAM ALI SHOUKAT ALI Karachi U 76.479 SW
+5 16715 Umar Ahmed Khan Masood Ahmed Khan Karachi U 75.641 CH
+6 14916 Muhammad Umer Muhammad Akber Karachi U 73.904 CH
+7 11703 MUHAMMAD SHEERAZ RASOOL BUx _____ Karachi U 72.589 ES
+8 16784 OKESH KUMAR HARJANI AMBRAT RAI HARJANI Karachi U 72.417 CS-P
+9 15364 Abdul Rahman Atiq Ur Rahman - Karachi U 71.526 TL
+10 11481 Erham Hussain Pirzada Jehangir Aslam Pirzada Karachi U 70.702 BM
+11 18524 Muzammil Naseer Naseer Ahmed Karachi U 70.358 IN
+12 11591 Mairaj Khalid Khalid Mehmood - Karachi U 70.104 CE-K
+13 16573 Wajahat Zafar Shabbir Ahmed Zafar Karachi U 69.063 TL
+14 20365 TOOBA BAIG ZAKIR ULLAH BAIG BAIG Karachi U 68.731 AR
+15 11675 Ms. Misbah Zahra Toufeeq Ahmed Karachi U 68.336 TE
+16 11650 Faraz Ali Naeem ullah Tunio Karachi U 67.966 CS
+17 20264 USAMA KHURSHEED MUGHAL KHURSHEED AHMED MUGHAL MUGHAL Karachi U 67.943 IN
+18 18518 Muhammad Moazzam Amjad Amjad Munir ___ Karachi U 67.525 SW-K
+19 18323 Muhammad Osama Khan Mehmood Khan Karachi U 67.424 IN
+20 10327 ASSAD ULLAH MALIK MUHAMMAD AMIN Karachi U 67.161 TE
+21 17396 Haseeb khan Ansari Khan Muhammad Ansari Karachi U 67.147 MT
+22 16496 Muhammad Ahmer Malick Abid Ali Musa Karachi U 66.982 PG-K
+23 11469 Ms. Shanzey Khan CAPT: Basharat Ali Khan Khan Karachi U 66.936 MN
+24 14896 Muhammad Junaid Abdul Sattar Karachi U 66.652 MT
+25 11892 MUHAMMAD WASEEM ABDUL KHALIQ Karachi U 66.570 MN
+1 11933 ATTAULLAH ABDUL KAREEM OGAHI Kashmore U 76.386 EL-K
+2 15444 Muhammad Saleem Muhammad Ishaq Malik Kashmore U 69.463 BM
+3 11867 HAFEEZ U RAHMAN ABDUL GHAFFOOR KHOSO Kashmore U 67.317 SW-K
+4 14999 Aijaz Ahmed Wali Muhammad Bangwar Kashmore U 64.811 CRP
+1 15456 Tanveer Ahmed Rafique Ahmed Domki Kashmore R 86.042 ME
+2 11999 Sagar Ghulam Shabir Bhayo Kashmore R 81.882 El
+3 11629 Wasim Sajad Gul Hassan Domki Kashmore R 79.352 CE-K
+4 14659 Rashid Ali Mehran Khan Bajkani Kashmore R 76.758 CE-K
+5 11815 Muhammad Hassan Khan Abul Hassan Suhriani Kashmore R 74.829 ES
+6 12035 Umair Ahmed Abdul Sami Channa Kashmore R 74.690 EL-K
+7 14922 Arbelo Khan Abdul Razzaq Bangwar Kashmore R 74.582 CH-P
+8 11929 FAYAZ AHMED MUHAMMAD BUX OGAHI Kashmore R 74.104 ME-K
+9 12248 Zahid Hussain Hidayatullah Bangwar Kashmore R 73.665 PG
+10 14699 Ameer Hamza Sideeque Ahmed Jhak Kashmore R 73.553 ES-K
+11 11966 ESSAR RAI BHAGTO VALECHA Kashmore R 73.326 SW
+12 15875 Altaf Ahmed Abdul Rasool Naich Kashmore R 73.125 ES-K
+13 17165 Abdul Shakoor Sajan Ali Sawand Kashmore R 73.049 SW
+14 10466 NOOR NABI RASOOL BUX OGAHI Kashmore R 72.372 PG-K
+15 11518 Abdul Ghafoor Qadir Bux Bahlkani Kashmore R 71.989 MT
+16 12031 Zahoor Ahmed Hidayatullah Ogahi Kashmore R 70.297 IN
+17 12299 Khalilullah Ghulam Sarwar Bahalkani Kashmore R 69.938 CS
+18 14765 Mir Ahmed Baggan Khan Bangwar Kashmore R 69.694 AR
+19 15198 Ghulam Akram Ghulam Nabi Dahani Kashmore R 69.439 TL
+20 14657 Aijaz Ali Mushtaque Ahmed Bahalkani Kashmore R 68.744 MN
+21 20103 Sadam Hussain Noor Muhammad Sabzoi Kashmore R 67.863 TE
+1 10737 Shah Nawaz Safi-ur-Rahman Soomro Khairpur U 79.516 EL
+2 18476 Abbas Ghani Hassan Raza Arain Khairpur U 76.862 ES
+3 20432 MS. Khadeeja tul Qubra Hyder u Zaman Shah Rashdi Syed Khairpur U 74.508 SW
+4 13496 Raheem Bukhsh huzaife Ghulam Muhammad Shaikh Khairpur U 74.106 MN
+5 14485 Abdul Razaque Abdul Khalique Shaikh Khairpur U 73.123 IN
+6 18249 Israr Ahmed Abdul Malik Memon Khairpur U 73.092 ES-K-P
+7 10366 Salman Raza Syed Mehar Abbas Zaidi Syed Khairpur U 72.734 SW-K
+8 17115 Ms. Dua Batool Mohammad Farrukh Mirza Mughal Khairpur U 72.561 SW-K
+9 12834 Haseeb Ahmed Abid Hussain Vandair Khairpur U 72.386 ES-K
+10 17946 MS. NISA BATOOL RIZVI SYED ALI MUSTAFA SHAH RIZVI Khairpur U 72.184 ES-K
+11 16596 Ms. Summaiya fatima Abdul salam shaikh Shaikh Khairpur U 72.054 SW-K
+12 10938 Syed Minhal Zafar Zaidi Saeed ul Zafar Zaidi Zaidi Khairpur U 71.974 SW-K
+1 11221 Abdul Rehman Lutufullah Khuwaja Khairpur R 82.005 CE
+2 10026 Azizullah Muhammad Ramzan Jamro Khairpur R 80.269 CE
+3 13527 Touseef Ali Maqsood Ali Shahani Khairpur R 80.037 EL
+4 18720 Ghulam Rasool Abdul Razzaque Khuhro Khairpur R 78.971 ME
+5 17049 Noman Imdad Ali Sial Khairpur R 78.956 CE-K
+6 10597 Tahseen Ahmed Saleemullah Memon Khairpur R 78.829 ME
+7 19728 Qaisar khan Niaz khan Khatak Khairpur R 78.608 ME-PESH
+8 13019 Ali Raza Ghulam Muhammad Palh Khairpur R 78.083 CE-K
+9 10601 Tahir Hussain Allahdad Lakho Lakho Khairpur R 77.797 IN
+10 10246 Muhammad Bilal Abdul Hadi Kalhoro Khairpur R 77.753 CH
+11 10166 Abdul Aleem Muharram Ali Mallah Khairpur R 77.647 CE-K-P
+12 20300 Halar Ali Zulfiqar Ali Gilal Khairpur R 77.511 CE-K
+13 10224 Mehboob Ayoob Muhammad Ayoob Solangi Khairpur R 77.421 ES
+14 19207 Muhammad Zain Akhtar Hussain Rid Rid Khairpur R 77.301 CE-K
+15 10034 Ms. Mehwish Nek Muhammad Shaikh Khairpur R 77.273 SW
+16 15720 Ms. Uzma Akram Ali Shahani Khairpur R 76.563 ES
+17 10241 Ali Hussain Gada Hussain Mallah Khairpur R 75.888 CH
+18 17404 Babar Manzoor Manzoor Hussain Mojai Khairpur R 75.884 CH
+19 10875 Ms. Sanjha Atta Muhammad Mirani Khairpur R 75.614 EL-K
+20 16983 Nasir Ali Muhammad Ashraf Noal Khairpur R 75.525 PG
+21 18212 Abdul Qudoos Abdul Aleem Junejo Khairpur R 75.458 CE-K
+22 12610 Ali Hussain Hadi Bux Channa Khairpur R 75.391 CE-K
+23 18203 Fida Hussain Fayaz Hussain Shahani Khairpur R 75.373 SW
+24 13577 Ms. Shiwita Kumari Shouqoo Mal Duseja Khairpur R 75.340 CS
+25 10340 Faizan Noor Noor Ahmed Mallah Khairpur R 75.222 EL-K
+26 16990 Zeeshan Ahmed Muhammad Yousif Sahito Khairpur R 75.141 EL-K
+27 19539 MS. Murk Shaikh Ghous Bux Shaikh Shaikh Khairpur R 74.805 SW
+28 13166 Amir Ali Gulab Khan Jarrah Khairpur R 74.794 EL-K
+29 15716 Syed Ahsan Ali Shah Syed Sikandar Ali Shah Syed Khairpur R 74.587 PG
+30 10074 Qooat Ali Manzoor Hussain Bhellar Khairpur R 74.530 ME-K
+31 17004 Adnan Gul Ali Gul Mojai Khairpur R 74.518 PG
+32 13779 Saddam Hussain Mukhtiar Hussain khilji Khairpur R 74.248 EL-K
+33 18357 Abdul Jabbar Mehar Ali Bozdar Khairpur R 73.990 EL-K
+34 15487 Faheem Abbas Ghulam Abbas Khuhro Khairpur R 73.948 IN
+35 19698 Abdul Salam Muneer Ahmed Khuhro Khairpur R 73.908 ME-K
+36 17418 Shahzeb Ali Fateh Muhammad Rajper Khairpur R 73.892 EL-K
+37 17442 Ms. PIRBHAT NADIR HUSSAIN Mirani Khairpur R 73.795 CS
+38 10903 zainul aabdin Nadeem akhtar Khemtio Khairpur R 73.503 ME-K
+39 19705 ABDUL SAMI GHULAM ABBAS PALH Khairpur R 73.430 ME-K
+40 18188 Maqsood Ahmed Abdullah Shar Khairpur R 73.403 ME-K
+41 18313 IRFAN ALI GHULAM SARWAR KHUHRO Khairpur R 73.314 CS
+42 17381 Arif Azhar Azhar Hussain Jagirani Khairpur R 73.290 CRP
+43 10728 Anwar Ali Ganhwar khan Ghumro Khairpur R 73.260 ME-K
+44 10599 Mohammad ali Athar ali mangi Khairpur R 73.221 MTE-P
+45 10114 Abdul Qadeer Abdullah Shar Khairpur R 73.164 ME-K
+46 11270 Ms. DUAA FATIMA GHULAM RAZA Mirani Khairpur R 73.160 TL
+47 11236 Muzamul Hussain Abdul Sattar Khuhro Khairpur R 72.682 TL
+48 10621 Mahboob Ali `Ghulam Hyder Narejo Khairpur R 72.567 ES-K
+49 25087 Ms. Sumbul Atta Hussain Khokhar Khairpur R 72.425 BM
+50 10836 Aftab Ali Ghulam Murtaza Soomro Khairpur R 72.390 ES-K
+51 13834 Babar Ali Manthar Ali channa Khairpur R 72.204 PG-K
+52 15443 Adnan Adil Gul Mir Khan Sahito Khairpur R 72.065 ES-K
+53 18306 Majid Hussain Mushtaque Hussain Memon Khairpur R 72.063 PG-K
+54 15724 Shoaib Ahmed Ali Gohar Khokhar Khairpur R 72.020 EE
+55 12535 Muhammad Ameen Muhammad Qasim Sahito Khairpur R 71.873 PG-K
+56 10440 Nisar Ali Himat Ali Othi Khairpur R 71.853 MT
+57 10717 HASHIR HUSSAIN GHULAM SIDDIQUE AWAN Khairpur R 71.791 SW-K
+58 15731 Danyal Ahmed Ali Shahani Khairpur R 71.676 PG-K
+59 18290 Halar Ali Nisar Ahmed Jumani Khairpur R 71.599 PG-K
+60 12693 Mujeeb-ur-Rehman Abdul Hayee Bhatti Khairpur R 71.571 PG-K
+61 17841 Babar Ali Ali Muhammad Bhanbhro Khairpur R 71.567 AR
+62 11087 faisal ali muhammad rakhiyal sarohi Khairpur R 71.456 AR
+63 10531 Shafqat Hussain Khuda Bux Babar Khairpur R 71.418 AR
+64 13164 Hasnain Saif ullah Khuwaja Khairpur R 71.375 CRP
+65 16781 Sarfaraz Rasool Ghulam Rasool Buriro Buriro Khairpur R 71.240 TL
+66 16932 Ms. Aqsa Noreen Javed Ahmed Shaikh Khairpur R 71.123 TL
+67 13002 Naveed Ali Qurban Ali Soomro Khairpur R 71.013 CRP
+68 13957 Hasan Ali Zamir Hussain Ansari Khairpur R 70.913 MT
+69 13712 Siraj Hussain Ghulam Nabi Solangi Khairpur R 70.748 MN
+70 18660 Ms. Rafia Mahnoor Liaquat Ali Phulphoto Khairpur R 70.626 TE
+71 11606 Ram chand Raj Kumar Ganguja Khairpur R 70.585 MN-P
+72 11479 Ms. Tania Baby Mumtaz Ali Bhutto Khairpur R 70.514 TE
+73 10030 Aghaz Ali Aijaz Ali Channo Khairpur R 70.380 TE
+1 10398 Ravi Kumar Suresh Shetiya Larkana U 84.659 CE
+2 17002 Abdul Rauf Mahtab Ahmed Soomro Larkana U 84.261 EL
+3 15544 GHAZANFAR AHMED ABDUL LATIF KARTIO Larkana U 79.021 CS
+4 10039 Ali Ahmed Ali Kolachi Larkana U 77.842 SW
+5 16911 Bilawal Illahi bux Soomro Larkana U 77.690 CE-K
+6 12796 Shujaat hussain Sayed kousar ali Shah Sayed shah Larkana U 77.347 CS
+7 12675 Jawad Ali Arbab Ali Mangan Larkana U 77.278 SW
+8 17032 Muhammad Khalid Hafiz Nazar Ali Mastoi Larkana U 75.703 EL-K
+9 12630 Muhammad Kashif Abdul Jamal Bhutto Larkana U 75.696 PG
+10 12493 IFITIKHAR HUSSAIN DAUD MEMON Larkana U 74.548 EE
+11 16604 Abdul Qadir Mumtaz Ali Shaikh Larkana U 74.522 MT
+12 15835 agha sardar sardar ali sangi Larkana U 74.360 ME-K
+13 13534 Zeeshan Ali Sarfraz Ahmed Shaikh Larkana U 74.103 ME-K
+14 16927 MEHRAN ZAHOOR ZAHOOR AHMED SHAIKH Larkana U 72.472 SW-K
+1 17112 SYED MUHAMMAD ALI SHAH SYED MUHARRAM ALI SHAH SYED Larkana R 82.111 CE-K
+2 19362 ABDUL BASIT ALI AKBAR HESEBANI Larkana R 81.921 ME
+3 12827 Mubashir Ahmed Maqsood Ahmed Soomro Larkana R 81.402 ES
+4 17199 Ms. Shana Mushtaque Ahmed Abbasi Larkana R 79.202 ES
+5 17393 ABDUL WASIO ABDUL QAYYUM TUNIO Larkana R 78.669 CE-K
+6 17114 FAIZ AHMED KHALIL AHMED ABRO Larkana R 78.358 CH
+7 19215 Faiz Muhammad Ghulam Hyder Korai Larkana R 77.768 SW
+8 10282 Ghulam Qadir Junejo Abdul Rehman Junejo Larkana R 77.255 MTE
+9 16355 Abdul rafiu zulfiqar ali Pathan Larkana R 76.791 EL-K
+10 13112 Ashraf Ali Mushtaque Ali Abro Larkana R 76.269 CH
+11 18208 Shuaib Ali Tufail Ahmed Butt Larkana R 76.148 PG
+12 16506 Muhammad Zubair Radhan Muhammad Saleh Radhan Larkana R 76.082 ME-K
+13 16898 MUSWAR MITHAL MUHAMMAD MITHAL MEMON Larkana R 75.595 TL
+14 15773 Samiullah Zahid Hussain Mahesar Larkana R 74.642 EL-K
+15 10933 Muhammad Haneef Dhani Bux Suhoo Larkana R 73.627 ES-K
+16 17316 MOHAMMAD HASSAN MOHAMMAD BAKHSH BROHI Larkana R 73.544 ES-K
+17 12673 Atif Ali Mohammad Ali Abbasi Larkana R 72.281 MN
+18 17044 Ajab gul Abbasi Faqir Muhammad Abbasi Larkana R 72.072 TL
+19 17046 Athar Hussain Azhar Hussain Phull Larkana R 70.910 IN
+20 14430 Ali Irfan Ghulam Rasool Soomro Larkana R 70.778 CRP
+21 19793 Faraz Hussain Shabir Ahmed Sangi Larkana R 70.705 IN
+22 14733 Mubashir bashir Bashir ahmed Abro Larkana R 70.612 AR
+23 15578 Ali Raza Abdul Sattar Junejo Larkana R 70.507 BM
+24 17027 Dildar Ali Ali Sheer Noonari Larkana R 70.488 AR
+25 16987 BABAR ALI SULEMAN ABRO Larkana R 70.337 PG-K
+26 15711 SHUJAUDDIN GHULAM HYDER SAMEJO Larkana R 70.289 PG-K
+27 12726 MS. RAVINA KUMARI GULSHAN LAL OAD OAD Larkana R 70.153 CRP
+28 18728 Mujahid Ahmed Mushtaque Ahmed Khichi Larkana R 69.775 MT
+29 20049 Javed Ahmed Abdul Jabbar Memon Larkana R 69.684 TE
+30 10479 Mohammad Abdul Wahhab Fakeer Mohammad Abbasi Larkana R 69.270 SW-K
+31 15503 Bahram Khan Abdul Rasool Ghanghro Larkana R 69.219 TE
+32 11229 Muhammad Faizan Abdul Karim Meo Rajput Larkana R 69.097 MN
+1 15756 FAIZAN ALI IMTIAZ AHMED ABRO Matiari U 77.960 CE
+2 14899 Jehanzeb Malik Muhammad Azhar Malik Matiari U 77.402 ME
+1 17737 SHEERAZ AHMED MUHAMMAD SAFFAR RAHU Matiari R 79.224 CE
+2 25103 Ms. Aasma Mir Muhammad Jamali Matiari R 77.839 BM
+3 14671 Haseeb aijaz Aijaz hussain Arbab Matiari R 77.490 EL-P
+4 15764 Huzefa Shoukat Ali Memon Matiari R 74.309 ME-P
+5 25080 ms.Saqiba Nazeer Nazeer Ahmed Memon Matiari R 74.167 BM
+6 18195 Muhammad Adeel Abdul Jameel Hashmi Matiari R 73.134 EL
+7 13328 Muhammad Aamir Muhammad Ismail Memon Matiari R 72.719 EL
+8 16634 Mahesh Mirchoo Mal Lohano Matiari R 72.449 PG
+9 14948 KAMRAN QADIR BUX RIND Matiari R 72.093 ES
+10 15029 SYED HASNAIN MEHDI KAZMI MUMTAZ ALI SHAH Syed Matiari R 71.986 ES
+11 14628 Sanaullah Mushtaque Ahmed Memon Matiari R 71.381 SW
+12 14808 Asghar Ali Ghulam Muhammad Ghanghlo Matiari R 71.233 SW
+13 20511 NOOR MUHAMMAD HAJI GHULAM SARWAR MUGHAL Matiari R 70.910 AR
+14 14708 Muhammad ali peer bux zardari Matiari R 70.673 CS
+15 11561 Hamid Hussain Ghulam Qadir Jamali Matiari R 68.983 MTE
+16 18700 AAQIB FAKHERE-E-AALAM DR BASHEER AHMED MEMON Matiari R 68.228 IN
+17 14689 Ms. Hafsa Ikram ullah Qureshi Matiari R 67.993 CS-P
+18 15414 shahzad ali shoukat ali khaskheli Matiari R 67.695 AR
+19 14680 MUHAMMAD ZAKIR MUHAMMAD UMER MEMON Matiari R 66.373 ME-K
+20 15054 Sajid Hussain Badar u din Khoso Matiari R 66.170 CH
+21 14891 Ms. Urooj Dost ali Umrani Matiari R 65.678 TL
+22 20143 Zain Ul Abdin Muhammad Ayoob Ansari Matiari R 65.627 MT
+23 15066 Imran Muneer Muneer Ahmed Memon Matiari R 65.566 IN
+24 14998 Mukhtar Muhammad Abdul Raheem Memon Matiari R 65.565 TL
+25 19227 WAQAR HUSSAIN ABDUL SATTAR JAMALI Matiari R 64.673 CRP
+26 19234 Muhammad Bilal Muhammad Sarfraz Rajput Matiari R 64.667 SW-K-P
+27 15686 SAJID UL ZAMAN ALLAH WARAYO JAMALI Matiari R 64.435 EE
+28 14031 Ms. SALEHA ABDUL GHAFOOR Memon Matiari R 62.970 TE-P
+29 15062 Ms. Memoona Rasheed Rasheed Ahmed Memon Matiari R 62.667 MN
+30 14573 Muhammad Owais Abdul Wahab Memon Matiari R 62.637 MN-P
+31 14658 Syed Aqeel Raza Dr Ghulam Shabir Syed Matiari R 62.412 TE-P
+32 15308 Umer Nawab Nawab Jatoi Jatoi Matiari R 62.048 PG-K
+1 12143 Ubaidullah Naimatullah Arain Mirpurkhas U 77.308 ME
+2 15469 Abdul Rehman Dr Niaz Ahmed Soomro Soomro Mirpurkhas U 76.914 ME
+3 19906 Shoraim Rashid Rashid Ali Rajput Khokhar Mirpurkhas U 76.764 EL
+4 19754 Ms. UMM-E-HANI Aqeel Ahmed Shaikh Mirpurkhas U 73.176 SW
+5 11886 Arsalan Ahmed Khan Iftikhar Ahmed Khan Pathan Mirpurkhas U 72.955 EL
+6 19980 Shan Aziz Dr. Musharraf Aziz Rajput Mirpurkhas U 72.037 CS
+7 11918 Muhammad Noman Ali Abdul Rasheed Malik Mirpurkhas U 71.279 ME
+8 12725 Ms.Wageena Kanwal Mughees Uddin Ahmed Ghouri Mirpurkhas U 70.955 CS
+9 13086 Awais Ahmed Khan Iqbal Ahmed Khan Pathan Mirpurkhas U 70.851 ES
+10 15696 MS. Sehar Imran Imran Anjum Arain Mirpurkhas U 70.466 CS
+11 16542 Ms. Maham Shah Syed Noor Ali Shah Bukhari Mirpurkhas U 70.360 CS
+12 14811 Fazeel Awan Faheem Akhtar Awan Mirpurkhas U 69.720 ES-K
+13 17794 Syed Shaheer Ali Syed Tahir Ali Syed Mirpurkhas U 68.766 ME-K
+1 12281 Raheel Sagar Gulab Chand Menghwar Mirpurkhas R 81.765 CE
+2 11839 Muhammad Muddasar Ahsan ul haque Arain Mirpurkhas R 80.444 CE
+3 12584 MS. Soha Abdul haque Laghari Mirpurkhas R 79.594 ES
+4 18610 Ms. FERWA SHAFQAT ALI QAIM KHANI Mirpurkhas R 78.558 EL
+5 16988 Usama Arshad Ali Arain Mirpurkhas R 77.576 CH-L
+6 11483 Bilal Ahmed Khan Muhammad Mustaqeem Khanzada Mirpurkhas R 74.934 EL
+7 17606 Adeel ahmed Iftikhar ahmed Arain Mirpurkhas R 74.261 ME
+8 11971 Ms. Ammarah Aftab Aftab Ahmed Arain Mirpurkhas R 74.019 SW
+9 11865 SAIFULLAH SHER MUHAMMAD BALOCH Mirpurkhas R 73.549 EL
+10 25352 Ms. Aisha Dilber Khan Maher Mirpurkhas R 73.446 BM
+11 12807 Abdul Haseeb Abdul Ghaffar khan Kaim Khani Mirpurkhas R 72.666 ME
+12 11900 EBAD PARAS AFZAL DR AFZAL HUSSAIN LAGHARI Mirpurkhas R 72.410 CE
+13 15581 Nilash Kumar Gurmukh Das Lohana Mirpurkhas R 72.319 CE
+14 25154 MS. AISHA MUNSHI KHAN QAIM KHANI Mirpurkhas R 72.224 BM
+15 13163 Abdul Qudoos Abdul Qadir Daoodpoto Mirpurkhas R 72.145 CE
+16 12958 MUHAMMAD UMAIR KHAN MUHAMMAD AKRAM QAIM KHANI Mirpurkhas R 71.925 ME
+17 15206 BHAWANI LAL CHETAN MENGHWAR Mirpurkhas R 71.614 EL
+18 15158 Abdul Mateen Khan Rafique Ahmed Khan Qaimkhani Mirpurkhas R 71.409 MTE
+19 20193 Ms. Raoofa Dal Sache dino Dal Dal Mirpurkhas R 71.374 SW
+20 12185 Aneel Kumar Veeroo Mal Meghwar Mirpurkhas R 71.199 MTE
+21 13091 Ms. Shanza Hanif Muhammad Hanif Arain Mirpurkhas R 71.118 SW
+22 16284 DILBAR HUSSAIN NAZIR AHMED LAGHARI Mirpurkhas R 70.805 ES
+23 18032 BHAGWAN DAS KANHIYO LAL SOOTHAR Mirpurkhas R 69.995 AR
+24 15013 ABDUL REHMAN MUHAMMAD ASLAM QAIM KHANI Mirpurkhas R 69.770 CE-K
+25 12277 Ms. Sufyana Farman Ali Qaim Khani Mirpurkhas R 69.761 AR
+26 18063 shahmeer rauf abdul rauf qaim khani Mirpurkhas R 69.260 TL-P
+27 20172 Bilal Shabir Shabir Hussain Arain Mirpurkhas R 69.220 PG
+28 13543 Usama Aslam Qaim Khani Muhammad Aslam - Mirpurkhas R 68.866 CH
+29 11855 ABDUL REHMAN GILL KHALIL QAISAR JAT GILL Mirpurkhas R 68.755 CH
+30 11904 Ms. Zainab Mahmood Mahmood Ali Mirpurkhas R 68.562 CRP
+31 17230 salman munawar munawar iqbal arain Mirpurkhas R 68.368 PG-P
+32 16612 chetan das shankar lal thakur Mirpurkhas R 68.047 TE
+33 11803 Rakesh Kumar Tulsi Das Maharaj Mirpurkhas R 67.990 MT
+34 16629 gen chand bheemlo kolhi Mirpurkhas R 67.875 TL
+35 12094 Muhammad Umair Mushtaque Ahmad Rajput Mirpurkhas R 67.813 TL
+36 15215 ASHOK KUMAR BAKHTO HINDU MENGHWAR Mirpurkhas R 67.796 TL
+37 13567 MUHAMMAD AHSAN RIAR ZULFIQAR ALI RIAR RIAR Mirpurkhas R 67.733 TE
+38 18405 MS. Aqsa Unnar Abdul Raheem Unnar Mirpurkhas R 67.676 EE
+39 13093 GHUFRAN HUSSAIN MUHAMMAD HUSSAIN QAIM KHANI Mirpurkhas R 67.305 EE
+40 13430 Ms. Samia Sikandar Sikandar Ali Arain Mirpurkhas R 67.235 TE
+41 15406 farhan yousuf muhammad yousuf gondal Mirpurkhas R 66.996 MN
+42 11920 Ms. Adina Muhammad Afzal Rajput Mirpurkhas R 66.829 IN
+43 19315 Muhammad Asim Abdul Ghaffar Arain Mirpurkhas R 66.547 IN
+44 17382 ALI RAZA Maqbool Ahmed Jat Mirpurkhas R 66.520 EL-K
+45 20045 Ms. Sadia Bibi Muhammad Boota Jat Mirpurkhas R 66.337 CRP
+46 16947 Abdul Wasey Abdul Aziz Qaim Khani Mirpurkhas R 66.308 MT-P
+47 11807 Aqib Gill Muhammad Azam Gill Mirpurkhas R 66.197 MN
+48 13549 MS. BURERA ABDUL RASHEED QAIM KHANI Mirpurkhas R 65.695 CRP
+49 16124 Osama Muhammad Khalid Qaim Khani Mirpurkhas R 65.525 PG-K
+50 12112 MS. ALEEHA MEHMOOD KHAN QAIM KHANI Mirpurkhas R 65.462 SW-K
+1 10081 Usama Hafeez Abdul Hafeez Memon N.Feroze U 81.060 ME
+2 14977 Ahmed Ali Hafiz Ali Bux Ameer ul bahar N.Feroze U 75.034 SW
+3 10298 ZAINULABDIN AMJAD HUSSAIN MEMON N.Feroze U 71.771 PG-K
+1 11734 Abdul Qayoom Abdul Samad Mahessar N.Feroze R 83.259 CE
+2 10383 Kazim Raza Kifayat Hussain Abbasi Kalhoro N.Feroze R 82.457 EL
+3 15534 Qadir bux Mohammad Azam Memon N.Feroze R 81.681 EL
+4 14910 Jahandad Khan Khudadad Khan Khushik N.Feroze R 79.982 ES
+5 11730 Noshad Ali Warial Shah Sayed Bukhari N.Feroze R 79.572 CE-K
+6 17077 Muhammad Moosa Qurban Ali Mangrio N.Feroze R 78.973 CE-K
+7 17028 Mohammad Gulan Mohammad Fazul Kalhoro N.Feroze R 77.958 CE-K
+8 16981 Shamshair Ali Ghulam Shabir Memon N.Feroze R 77.806 ES
+9 17075 Muhammad Ameen Muhammad Ayoub Kalhoro N.Feroze R 77.785 CH
+10 14712 Musawir Hussain Muhammad Awais Arain N.Feroze R 77.765 ES
+11 15604 Adnan Ahmed Zahid Hussain Mallah N.Feroze R 77.656 CE-K
+12 17019 Uzair Ahmed Karim Dino Mangi N.Feroze R 77.486 CH
+13 11728 Bilawal Ali Ghulam Rasool Halepoto N.Feroze R 77.231 CH-L
+14 11083 IMRAN AHMED MUHAMMAD DIN KOONDHAR N.Feroze R 76.672 CS
+15 15908 ISMAIL KHAN KASHMIR KHAN SULEMAN KHAIL N.Feroze R 76.280 CE-Pesh
+16 15012 Ahmed Raza Javed Ali Memon N.Feroze R 75.730 EL-K
+17 10446 AHSAN ALI SHAKEEL AHMED ABBASI N.Feroze R 75.430 PG
+18 15491 Abdul Rauf Abdul Karim Tunio N.Feroze R 75.393 ME-K
+19 19214 Shahnawaz Haji Khan Lund Balouch N.Feroze R 75.222 SW
+20 10281 Wajid Hussain Wali Muhammad Burdi N.Feroze R 75.217 ME-K
+21 10091 IRFAN ALI ZAMEER AHMED MEMON N.Feroze R 75.178 ME-K
+22 13810 Bakir Ali Ghulam Akbar Rajper N.Feroze R 74.999 PG
+23 17638 Aqib Ali younis Buriro N.Feroze R 74.781 SW
+24 11718 Aamir Haneef Muhammad Yaseen Koondhar N.Feroze R 74.333 EL-K
+25 17238 tarique ali qamar ul din sahito N.Feroze R 74.149 MN
+26 20065 aijaz hussain ayaz hussain lashari N.Feroze R 73.748 ME-K
+27 17304 Shahzad Gul Zaman Hamzo Khan Buriro N.Feroze R 73.721 EL-K
+28 10291 Najeebullah Karamullah Vistro N.Feroze R 73.691 CS
+29 14788 MAHMOOD HASSAN MUHAMMAD RAMZAN MALIK N.Feroze R 73.630 EL-K
+30 15715 fahim raza ghullam raza lashari N.Feroze R 73.181 MTE
+31 15630 Muhammad sidique Muhammad Ali Rind Baloch N.Feroze R 73.174 AR
+32 11786 IRFAN RASHEED ABDUL RASHEED RAJPER N.Feroze R 72.962 ES-K
+33 10311 Muhammad Anees Ahmed Raza Sarfraz Rajput N.Feroze R 72.778 PG-K
+34 11798 Maha Tufail Agro Tufail Ahmed Agro Agro N.Feroze R 72.548 TL
+35 17669 Shahid Ali Rahmatullah Abro N.Feroze R 72.219 TL
+36 15447 Abdul Salam Abdul Hameed Panhwar N.Feroze R 71.959 TL
+37 14966 Abid Hussain Muhammad Ibrahim Iboo poto N.Feroze R 71.921 AR-Pesh
+38 15864 Zaryab Hussain Sultan Rajper N.Feroze R 71.727 SW-K
+39 15401 Faisal Mahesar Ameer Bux Mahesar N.Feroze R 71.573 CRP
+40 17274 Muhammad Kashif Muhammad Ashraf Kamboh N.Feroze R 71.274 EE
+41 16099 Mahtab Ali Bux Ali Machhi N.Feroze R 71.178 ES-K
+42 16660 Basit Aziz Abdul Aziz Qureshi N.Feroze R 71.171 BM
+43 17348 Masroor Hussain Hussain Bux Teevno N.Feroze R 71.138 MN
+44 14085 Ali Asghar Nisar Ali Qureshi N.Feroze R 71.035 IN
+45 10300 Asad Ali Maqbool Ahmed Memon N.Feroze R 70.964 SW-K
+46 10216 Muhammad Ameen Mansoor Ali Rajper N.Feroze R 70.901 IN
+47 16912 Manoj Kumar Sajandas Lohano N.Feroze R 70.710 PG-K
+48 14800 rafaqat ali azam ali soomro N.Feroze R 70.678 PG-K
+49 20057 zeeshan ali Dost Ali Tunio N.Feroze R 70.345 SW-K
+50 16425 kafeel ahmed feroz din abbasi N.Feroze R 70.260 TE
+51 16046 Sarmad Ali Niaz Ahmed Memon N.Feroze R 69.978 TE-P
+52 11774 Samiullah Muhammad Chhatal Abro N.Feroze R 69.916 TE
+53 19707 Gulshan Mustafa Ashfaque Ahmed Koondhar N.Feroze R 69.773 MT
+54 16984 Ghulam Mujtaba Abdul Fatah Mallah N.Feroze R 69.547 MT
+1 13054 Zeeshan Ali Ayaz Ali Chana S.B.Abad U 78.932 Ar
+2 12938 Ms. Sameen Khan Abdul Aziz Khokhar S.B.Abad U 78.416 ES
+3 15508 Ms. Aamna Lakhano Rahoo S.B.Abad U 74.719 CS
+4 18734 Muhammad Shehryar Muhammad Siddique Khaskheli S.B.Abad U 73.826 PG
+5 19565 Sharjeel Latif Abdul Latif S.B.Abad U 73.726 MTE
+6 10797 MUHAMMAD RIZWAN ALLAH BACHAYO BHATTI S.B.Abad U 72.526 EL-K
+7 10646 Zeeshan Ahmed Munawar Ahmed Arain S.B.Abad U 72.451 ME-K-P
+8 13774 Ghulam Muihuddin Ghulam Mustafa Pirzada S.B.Abad U 72.097 SW-K
+9 15862 Arham Khan Muslim Farooque Khan Pathan S.B.Abad U 71.926 ME-K
+1 16891 Abdul Malik Abdul Hakeem Jamali S.B.Abad R 81.504 CE
+2 17235 Saqib Ali Muhammad Zaman Dehraj S.B.Abad R 80.699 EL
+3 12936 MUHAMMAD ALI IMAM UDDIN LAKHO S.B.Abad R 79.830 ME
+4 15566 Muhammad Irfan Mureed Hussain Mashori S.B.Abad R 79.712 CE-K
+5 17593 Usama Khan Noor Ahmed Rajput S.B.Abad R 78.263 ES
+6 11658 HAMMAD KHAN AHMED NAWAZ JAMALI S.B.Abad R 78.040 CS
+7 17992 Eidan Khan Ghulam Nabi Parhiar S.B.Abad R 76.896 Sw
+8 14204 Amjad Ali Ghulam Shabir Dahri S.B.Abad R 76.747 SW
+9 12777 GHULAM MUSTAFA GHULAM ALI MARI S.B.Abad R 76.472 ES
+10 13073 Ms. Hishma Noor Allah Mahar S.B.Abad R 76.190 TE
+11 10146 Shahzaib Liaquat Liaquat Ali Lund Lund S.B.Abad R 75.964 CH
+12 13671 Abdul Baasit Abdul Hafeez Jamali S.B.Abad R 75.810 CE-K
+13 10377 Aftab Ahmed Ahmed Khan Chandio S.B.Abad R 75.741 SW
+14 11645 Niaz Hussain Ghulam Hussain Umrani S.B.Abad R 74.927 CH
+15 12595 Ms. Maria Muhammad Irshad Awan S.B.Abad R 74.911 TL
+16 12934 HAMID ALI IMAM BUX MALLAH S.B.Abad R 74.492 TL
+17 10782 MUSAWAR ALI ALI NAWAZ KHOSO S.B.Abad R 74.030 CE-K
+18 14209 Sheeraz Ali Sher Ali Rahu S.B.Abad R 73.266 EL-K
+19 15465 Amir Hyder Bajhi khan Kaloi S.B.Abad R 72.744 MN
+20 15506 MUHAMMAD BILAL HUSSAIN MUHAMMAD LIAQUAT RAJPUT S.B.Abad R 71.757 TL
+21 15718 Irfan Khan Azam Khan Afridi S.B.Abad R 71.505 CE-K
+22 13717 Zain Ali Muhammad Aslam Mughal S.B.Abad R 71.210 PG
+23 12617 Gul Sher Gul Haider Lund S.B.Abad R 70.720 EL-K
+24 15761 Ms. Iram Nasar Uddin Shaikh S.B.Abad R 70.583 EE
+25 16991 Man shad Ahmed Ghulam Mustafa Zardari S.B.Abad R 70.426 PG-K
+26 12744 ARSALN AKHTAR AKHTAR HUSSAIN JOYO S.B.Abad R 70.076 EL-K
+27 10754 Ms. Rahat Un Nisa Niamat Awan S.B.Abad R 69.810 AR
+28 14335 Fida Hussain Ghazi Khan Khoso S.B.Abad R 69.644 MN
+29 17392 Fayaz Ahmed Noor Ahmed Afridi Pathan S.B.Abad R 69.571 ME-K
+30 15446 Waqas Ahmed Muhammad Waris Hothipoto S.B.Abad R 69.515 ME-K
+31 10341 Ms. BISHARAT MUHAMMAD AYOOB ZARDARI S.B.Abad R 69.509 IN
+32 12122 FARHAN MAHDI AZEEM KHAN ZARDARI S.B.Abad R 69.386 ES-K
+33 12628 Asad Ali Mahi Khan Magsi S.B.Abad R 69.284 ES-K
+34 14386 Aamir Ali Ahsan Ali Talpur S.B.Abad R 67.933 TE
+35 10308 Ghulam Nabi Ghulam Qadir Hothipoto S.B.Abad R 67.747 IN
+36 18591 Aftab Hassan Muhammad Amir Mukhtiar Malik S.B.Abad R 67.678 MT-P
+37 15482 Mehtab Hyder Ghulam Hyder Zardari S.B.Abad R 67.550 CRP
+38 12714 ABID HUSSAIN NIAZ HUSSAIN ZARDARI S.B.Abad R 67.541 PG-K
+39 16308 Sanaullah Ghulam Mustafa Dehraj S.B.Abad R 67.493 PG-K
+40 12571 Zeeshan Khan Muhammad Siyal S.B.Abad R 67.492 PG-K
+41 10211 Waseem Abass Abass Ali Jamali S.B.Abad R 67.242 CRP
+42 12548 Muhammad Daud Abdul Hafeez Jamali S.B.Abad R 67.098 SW-K
+43 19809 Niaz Hussain Muhammad Sharif Makrani S.B.Abad R 66.885 BM
+44 10990 Faraz Hussain Muhammad Bachal Dahri S.B.Abad R 66.784 MT
+45 19724 Muhammad Aqib Muhammad Mansha Arain S.B.Abad R 66.676 SW-K
+1 13752 Ms. Zaneb Tahir Tahir Iqbal Gujar Sanghar U 78.617 El
+2 12780 Ms. Shumaila Zulfiqar Ali Rajput Sanghar U 77.828 SW
+3 16553 ms. bhagia sheri ramesh kumar mahana Sanghar U 76.842 SW
+4 16735 Muhammad Shahmeer Muhammad Idrees Abbasi Sanghar U 74.606 ME
+5 19341 Syed Ali Raza Naqvi Nasir Hussain Shah Syed Sanghar U 72.971 ME
+6 12962 Ms. IQRA MUHAMMAD QADEER RAJPUT Sanghar U 72.165 EL
+7 12789 MUHAMMAD HARIS ZAHEER AHMED QURESHI QURESHI Sanghar U 70.300 SW
+8 14184 Murtaza Ali Gulzar Ahmed Chang Sanghar U 69.042 SW
+9 13758 Ms. AQSA NAZIMUDDIN SHAIKH Sanghar U 68.757 CS
+10 20234 Ms. AISHA AKHTER PERVEZ RAJPUT Sanghar U 68.145 CS
+11 16712 Ms. Amna Hashim Ali Rajput Sanghar U 67.955 SW
+12 14193 Muhammad Nabeel Muhammad Manzoor Rajput Sanghar U 67.555 ES
+13 11535 RAVI KUMAR NARAIN DAS RAJWANI Sanghar U 66.809 MTE
+14 16078 Syed Hamza Arif Syed Muhammad Arif Syed Sanghar U 66.522 PG
+15 13456 Salman Ahmed Abdul Rasheed Ansari Sanghar U 65.271 CE-K
+1 19252 Mushtaque Ali Ghulam Nabi Dal Sanghar R 80.651 EL
+2 25030 Ms. Maryam Jamshaid Jamshaid Akhtar Arain Sanghar R 77.465 BM
+3 13134 FARHAN JAVED JAVED AHMED LAGHARI Sanghar R 76.220 CE
+4 16294 Arshad Ali Shah Muhammad Lashari Sanghar R 75.534 El
+5 13927 Sohaib Ramzan Muhammad Ramzan Rajput Sanghar R 73.784 ME
+6 12989 Ms. UROOBA ANWAR UL HAQUE ARAIN Sanghar R 73.712 ES
+7 16263 Naresh Kumar Dhanraj Mal Mahraj Sanghar R 73.695 CE
+8 12501 Anees U Rehman Muhammad Rehman Khattak Sanghar R 72.959 ME
+9 25183 MS. ZUNAIRA MUHAMMAD AKRAM QAIM KHANI Sanghar R 72.666 BM
+10 15494 Sarfaraz Ahmed Mir Muhammad Soomro Sanghar R 72.586 ME
+11 12760 ABDUL RAUF ABDUL JABBAR LAGHARI Sanghar R 72.449 El
+12 15517 JAWAD UL REHMAN MUHAMMAD ALAM SYED Sanghar R 71.624 El
+13 19442 Rehan khan khan muhammad Malik Sanghar R 71.472 CE
+14 15514 MUZAMIL BAIG MUJAMIL BAIG LAGHARI Sanghar R 71.103 CE
+15 14142 Arshad Ali Ali Jan Dahri Sanghar R 70.310 CE
+16 13348 SHAHZEB KHAN MOHAMMAD AACHER BHANOOJO Sanghar R 70.090 PG
+17 12854 AZEEM KARIM BAKHSH KAPRI Sanghar R 69.645 CE
+18 11564 NAVEED SHAH ABDUL JABBAR SHAH SAYED Sanghar R 69.584 CE
+19 20335 Tarique Ali Moula Bux Khaskheli Sanghar R 69.574 EL
+20 16220 Ms. Komal Bai Bhagwan Das Lohana Sanghar R 69.403 ES
+21 13664 Muhammad Rizwan Muhammad Akram Rajput Sanghar R 69.348 ME
+22 14130 FARAZ AHMED BAIG IFTIKHAR AHMED MUGHAL Sanghar R 69.294 EL
+23 16413 Gulab Rai Haree Ram Menghwar Sanghar R 69.182 ME
+24 11360 Nasir Ahmed Noor uddin Brohi Sanghar R 69.068 MTE
+25 15911 WAZIR MUHAMMAD URF RAZA ALI HIDAYAT ALI JAMALI Sanghar R 69.053 SW
+26 11607 Habib-ur-Rehman Gul Muhammad brohi Sanghar R 68.565 ME
+27 14228 ALQAMA ZIKR UR REHMAN RAJPUT Sanghar R 68.492 ES
+28 13948 Hassan Siddique Muhammad Siddique Arain Sanghar R 68.209 AR
+29 18594 SHAHZEB NADEEM NADEEM AKHTAR ------ Sanghar R 68.121 CH
+30 13787 WAQAS HUSSAIN WALI MUHAMMAD MARI BALOCH Sanghar R 68.118 EL-K
+31 11537 SAAD ASLAM MUHAMMAD ASLAM Gujar Sanghar R 68.096 CH
+32 14491 Ms. Ruqaya Shoukat Shoukat Ali Qaim khani Sanghar R 67.879 CS
+33 16128 Javed Ali Taj Muhammad Dahri Sanghar R 67.347 SW
+34 15905 Raza Mohammad Atta Mohammad Khaskheli Sanghar R 67.276 CH
+35 13179 Rashid Ali Doolah Khan Jariko Sanghar R 67.197 PG
+36 12968 Lajpat Rai Gul Mal chand Mehraj Sanghar R 67.156 ES
+37 11669 Kamran Ayoob Muhammed Ayoob Hingoro Sanghar R 67.095 ES
+38 16131 Imdad Ali Muhammad Moosa Dars Sanghar R 66.926 MTE
+39 13132 Ms. Ayesha Ashraf Muhammad Ashraf Arain Sanghar R 66.828 CS
+40 12810 Yasir Pervez Iqbal Arain Sanghar R 66.686 PG
+41 16501 Ms. Hina Najam Najam Saqib Mughal Sanghar R 66.645 CS
+42 16260 MS. KANCHAN BHEEMAN DAS LUHANO Sanghar R 66.542 CS
+43 11626 Abdul Sami Atta Muhammad Kaloi Sanghar R 66.493 AR
+44 15623 Muhammad Mohsin Muhammad Naeem Khan mohsin Sanghar R 66.366 TL
+45 20261 Asad ullah Muhammad Anwar Qureshi Sanghar R 66.217 AR
+46 13746 Ms. NIMRA CHOUDHARY ZAHID SHAFIQUE ARAIN Sanghar R 66.083 TL
+47 13756 Faqeer Mohammad Ghulam Nabi Yousfani Sanghar R 65.833 TE
+48 19422 Ms. Sara Ali Tayyab Ali Qaimkhani Sanghar R 65.733 TL
+49 19868 Zeeshan Sikandar Sikandar Hayat Khattak Sanghar R 65.686 ME-K
+50 12975 Aamir Ali Mushtaque Ahmed Chohan Sanghar R 65.424 TL
+51 16432 MS. SUMAIRA JABEEN LATIF RAZA RAJPUT Sanghar R 65.212 TL
+52 20108 Ghulam Muhammad Rajab Ali Dahri Sanghar R 65.211 TE
+53 12740 Asad Ali Amanat Ali Arain Sanghar R 65.173 IN
+54 13814 NAFIS AHMED KHAN MOIN UDDIN KHAN QAIM KHANI Sanghar R 65.157 TL
+55 13921 Ahmed Ali Sarfraz Ahmed ---- Sanghar R 65.127 TL-P
+56 20177 IRFAN ALI QADIR BUX TALPUR Sanghar R 63.868 MT
+57 12830 Mohsin Ibrahim Muhammad Ibrahim Sanghar R 63.837 IN
+58 16520 MUHAMMAD ZAHID MUBARIK HUSSAIN MUGHAL Sanghar R 63.711 AR
+59 14060 Suneel Kumar Kanji Mal Parmar Sanghar R 63.634 IN
+60 15923 Muhammad Bilal Muhammad Hanif Jat Sanghar R 63.344 CE-K
+61 13718 Ahtasham Ali Muhammad Jawaid Rajput Sanghar R 63.213 ME-K
+62 15881 Mustafa Furqan Taj Muhammad Shaikh Shaikh Sanghar R 62.815 ES-K
+63 15937 ARSILLAN AHMED MUHAMMAD ARIF JAMALI Sanghar R 62.516 EE
+64 11576 DIN MUHAMMAD ABDUL LATIF MAHAR Sanghar R 62.443 IN
+65 15942 Muhammad Zubair Anwar Ali Arain Sanghar R 62.173 MT
+66 11473 Shahmeer Haneef Muhammad Haneef Qaim Khani Sanghar R 62.065 EE
+67 16076 Muhammad Aalam Muhammad Ameen Jamali Sanghar R 61.998 TE
+68 14056 AWAIS AHMED NAZEER HUSSAIN LAGHARI Sanghar R 61.983 MN
+69 16133 Muhammad Yameen Muhammad Siddique Dars Sanghar R 61.891 SW-K
+70 19432 Faizan Ameer Bux Soomro Soomro Sanghar R 61.842 MN
+71 14486 Muzamil Rind Muhammad Hashim Rind Sanghar R 61.807 CRP-P
+72 11525 Huzaifa Riaz Muhammad Riaz Jat Sanghar R 61.752 TE
+73 11628 Qurban Ali Nabi Bakhsh Rajar Sanghar R 61.583 EE
+74 16135 Wali Bakhish Muhammad Hassan Dars Sanghar R 61.428 MN
+75 16126 Zafar Ali Rahim Dars Sanghar R 61.427 MN
+76 14260 MOHAMMAD FAIZAN ALI MOHAMMAD SABIR SHAIKH SHAIKH Sanghar R 61.235 TE
+77 13789 Muhammad Bilal Muhammad Yameen Malik Sanghar R 61.018 MT
+78 10412 Moed Hussain Muhammad Naseeb Bugti Sanghar R 60.994 PG-K
+79 19371 Zaheer Ahmed Gulan Khan Umrani Sanghar R 60.865 PG-K
+80 19602 MS. KHIZRA NAZ MUHAMMAD MUSHTAQUE MUGHAL Sanghar R 60.844 CRP
+81 14188 Om Parkash Dhanraj Mal Mahraj Sanghar R 60.793 CRP
+82 11618 Rana Hamza Bilal Abdul Hafeez Rajput Rajput Sanghar R 60.579 CRP
+83 18298 Anus Ali Muhammad Yameen Rajput Sanghar R 60.545 SW-K-P
+1 16129 Muhammad Shafique Muhammad Sharif Channa Shikarpur U 74.925 ME
+2 18219 Bharat kumar Alias Beesham Gehi Ram Valecha Shikarpur U 74.580 SW
+3 13652 Muhammad Usman Rasheed Ahmed Memon Shikarpur U 73.837 PG-P
+4 13708 Kashif Mohammad Sharif Arain Shikarpur U 73.669 ME-K
+5 12649 Irfan Ali Hafeezullah memon Shikarpur U 72.939 ES
+1 12869 Bahram Khan Muhammad Saleem Tanwri Shikarpur R 78.597 CE
+2 12504 Habibullah Maqsood Ahmed Shujrah Shikarpur R 77.713 EL
+3 17010 Zaheer Abbas Ghulam Abbas Detho Shikarpur R 74.732 ch
+4 13356 EMAD UD DIN SOOMRO ANEES AHMED SOOMRO Shikarpur R 74.168 MTE
+5 13206 Asadullah Muhammad Tariq Tanwri Shikarpur R 73.643 AR
+6 11471 Muhammad Umar Iqbal Ahmed Memon Shikarpur R 72.156 ES
+7 11503 Abdul Qadir Asif Ali Pathan Shikarpur R 71.666 CS
+8 11457 Saifullah Faheemuddin Dall Shikarpur R 70.701 EL-K
+9 13647 FARAZ HUSSAIN SAFDAR HUSSAIN MEMON Shikarpur R 70.273 AR
+10 11653 Mujeeb-u-Rehman Zulfiqar Ali Kehar Shikarpur R 69.832 SW
+11 13828 Nizamuddin Ujjan Hisamuddin Ujjan Ujjan Shikarpur R 69.594 ME-K
+12 14616 ADAB HUSSAIN GHULAM RABANI NINDWANI Shikarpur R 69.370 EL-K
+13 16884 Fazal ullah Shuaib Ahmed Memon Shikarpur R 68.963 CS
+14 12792 TANVEER AHMED ABDUL HAMEED UNAR Shikarpur R 67.661 CE-K
+15 12662 Sarmad Sikandar Ali Chandio Shikarpur R 67.344 TL
+16 11926 Faraz Ali Shah Ghulam Asghar Shah Syed Shikarpur R 67.308 CE-K
+17 11562 ABDUL RASHEED GHAZI JUNEJO Shikarpur R 66.111 IN
+18 19232 Kashif Raza Ashique Ali Manganhar Shikarpur R 66.087 ES-K
+19 11367 Tariq Ahmed Manzoor Raza Awan Shikarpur R 66.079 PG-K
+20 18351 FAIZ MUHAMMAD ALI BUX KHOSO Shikarpur R 66.063 TL
+21 18272 Muhammad Alam Ali Murad Sethar Shikarpur R 65.964 TL
+22 12533 Irshad Ahmed Shahzado Soomro Shikarpur R 65.827 SW-K
+23 13080 Aamir Khan Gulzar Ahmed Channa Shikarpur R 65.824 ES-K
+24 25288 Abdul Hanan Abdul Basit Channa Shikarpur R 65.610 BM
+25 14448 MUHAMMAD AFZAL UMEED ALI MEMON Shikarpur R 65.503 PG-K
+26 12521 Haseebullah Nooruddin Bhayo Shikarpur R 65.373 PG-K
+27 13139 Hazar Khan Muhammad Salah Brohi Shikarpur R 65.251 SW-K
+28 18322 Farhan Ahmed Aijaz Ahmed Memon Shikarpur R 65.156 MN
+29 14175 shamsuddin Shah Nawaz sanjrani Shikarpur R 65.018 CRP
+30 13013 WAQAR ALI GHULAM MUHAMMAD SOOMRO Shikarpur R 64.967 EE
+31 17056 Awais Ahmed Nisar Ahmed Soomro Shikarpur R 64.695 CRP
+32 14372 Ali Sasoli Abdul Rehman Sasoli Muslim Shikarpur R 63.747 MT-P
+33 13120 Pir Syed Zain ul abidin Pir Syed Mumtaz Ali Shah Syed Shikarpur R 62.809 MT
+34 12599 Nadir Hussain Gul Muhammad Mahar Shikarpur R 62.785 TE
+35 14088 MUHAMMAD ALI/ HALAR ALI IRSHAD AHMED CHANNA Shikarpur R 62.557 TE
+1 13766 RAJNESH KUMAR MANGHA RAM LUHANA Sujawal R 82.671 ME
+2 13770 FARAZ AHMED AHMED KHAN ZAUR ZAUR Sujawal R 71.437 CE
+3 13675 Kashif Qasim Ali Sujawal R 69.456 EL
+4 13797 Yaseen Ahmed Khalil Ahmed Abbasi Sujawal R 69.012 ME
+5 13911 MS. ZOYA ABDUL GHANI Sujawal R 68.391 EL
+6 15657 Moin Madad Ali Karimi Sujawal R 67.984 CE
+7 13938 jawad nabi Ghulam nabi Zour Sujawal R 67.588 SW
+8 13682 hassan bukht abdul karim palijo Sujawal R 66.972 CE
+9 13880 Sooraj Kumar Anand Ram Luhana Sujawal R 66.584 EL
+10 18142 AKSHAY KUMAR SHEWAK MAL LOHANA Sujawal R 65.230 ES
+11 25113 Manesh kumar Ramesh kumar Sonia Sujawal R 64.686 BM
+12 16638 Kaleem Ullah Muhammad Ibrahim Memon Sujawal R 64.410 SW
+13 17256 sagar ali muhammad ali khuwaja Sujawal R 63.607 EE
+14 19703 Ms. Fiza kaLim palijo Abdul karim palijo Sujawal R 62.895 ES
+15 13737 HASEEB AFTAB AHMED MEMON Sujawal R 62.634 MTE
+16 13956 MANESH PREMCHAND BRIHIMAN Sujawal R 62.165 PG
+17 13743 imdad hussain shah irshad hussain shah sayed Sujawal R 61.809 PG
+18 17194 ISRAR AHMED IQBAL AHMED CHANNA Sujawal R 59.900 TL
+19 13792 Ms. Anam niaz Niaz ahmed Abbasi Sujawal R 59.075 CS
+20 19200 Saqlain Rafique Ahmed Memon Sujawal R 59.053 CH
+21 13731 Mahesh Kumar Devo Mal Charan Sujawal R 58.761 CS
+22 15507 ALI SHER MALKANI MUHAMMAD ZAMAN MALKANI Sujawal R 58.409 CE-K
+23 16834 Asad Ramzan Jamari Muhammad Ramzan Jamari Sujawal R 57.117 TL
+24 20012 Sheeraz Akram Akram Memon Sujawal R 57.036 TL
+25 17676 PIR GHULAMULLAH SHAH PIR ALLAH DINO SHAH PIR Sujawal R 56.068 PG-K
+26 14070 Inder Paloo Mal waghela Sujawal R 55.925 MN
+27 13980 Ms. Marvi Wali Muhammad Abbasi Sujawal R 54.182 AR
+28 14234 Shahzeb Abbas Ghulam Abbas Memon Sujawal R 53.931 TE
+29 17901 Ms. Nimra Muhammad Irfan Memon Sujawal R 53.430 MN
+30 14351 Danish Ali Muhammad Ashraf Sujawal R 53.407 CRP-P
+31 19471 Danish Ahmed Akhter Ahmed Memon Sujawal R 53.299 TE
+32 13907 Aadit Kumar Mohan Kumar Bansari Sujawal R 53.122 ES-K
+33 20014 Ms. Fehmeeda Muhammad Dawood Soomro Sujawal R 53.083 MT
+34 14021 sheeraz abdul shakoor mirbahar Sujawal R 52.428 IN
+35 11251 Mahar Ali Ameer Ali Kharik Sujawal R 51.291 CRP-P
+1 11418 MS. LAIBA NOOR malik feroz ud din malik Sukkur U 83.261 CE-K
+2 10556 Ms. Mashal Zainab Zia uddin Bhatti Sukkur U 77.615 SW
+3 10763 Mohammad Bilal Mohammad Wasi Bhatti Sukkur U 77.190 SW
+4 14381 Shoaib Ahmed SHAKEEL AHMED Sukkur U 76.304 EL-K
+5 10088 Ms. Areesha Moiz ud din Qureshi Sukkur U 76.073 ES
+6 17029 Azam Mustafa Mughal Aamir mughal Mughal Sukkur U 75.399 EL-K
+7 19372 MS. RABIA MEMON ABDUL FATAH MEMON Sukkur U 74.874 CH
+8 20167 Ms Kainat Jamil Ahmed Mahar Mahar Sukkur U 74.414 CS
+9 19238 Muhammad Arsalan Aslam pervaiz Shaikh Sukkur U 73.881 ME-K
+10 11625 Ms. Areesha Mahnoor Asghar Ali Dahar Sukkur U 73.873 PG
+11 16875 Muhammad Furqan Muhammad Afzal Arain Sukkur U 73.868 ME-K
+12 10573 MUHAMMAD USAMA TARIQUE SIDDIQUE JUNEJO Sukkur U 73.781 IN
+13 17659 Abdul Majid Shaikh Abdul Aziz Shaikh Shaikh Sukkur U 72.353 ES-K
+14 13669 Mohammad Osama Ghulam Sabir Siidiqui Sukkur U 71.911 SW-K
+15 17111 BILAL AHMED SHAIKH RIAZ AHMED SHAIKH SHAIKH Sukkur U 68.747 TE
+16 16822 Saif ur Rahman Hafeez ur Rahman Qazi Sukkur U 68.629 EE
+17 11428 Agha zain ul abdin Agha Saifullah Pathan Sukkur U 68.487 MT
+1 17356 Mir Ghulam Murtaza Mushtaque Ali Chachar Sukkur R 82.005 CE
+2 10859 NADEEM AHMED HIDAYATULLAH MIRBAHAR Sukkur R 80.793 EL
+3 18316 SHAFQAT HUSSAIN QAIMUDDIN MIRBAHAR Sukkur R 79.385 ME
+4 11508 Ayaz Ahmed Ali Akbar Kalhoro Sukkur R 79.183 CE-K
+5 17836 Ms. Rubab Nazeer Ahmed Shaikh Sukkur R 79.085 EL-K
+6 11506 Muhammad Aslam Arbelo Mahar Sukkur R 78.736 EL-K
+7 11326 MUBARAK ALI AHMED ALI MIRBAHAR Sukkur R 78.384 ES
+8 13676 Ali Faraz Chand Mahar Sukkur R 77.594 CE-K
+9 10144 Abdul Manan Abdul Qayoom Kalhoro Sukkur R 76.873 CH-P
+10 10817 Abuzar Ali Mansoor Ahmed Mohammadi Sukkur R 76.799 CE-K
+11 20308 Adil hussain Wahid bux Samail Sukkur R 76.628 PG
+12 16909 Muhammad Umar Asghar Muhammad Asghar Khokhar Khokhar Sukkur R 76.223 MTE
+13 13773 Ms. Iqra Hyder Ali Hyder Kalhoro Sukkur R 75.205 CS
+14 13835 MOHAMMAD TAHIR BASHIR AHMED ABBASI KALHORO Sukkur R 74.804 EL-K
+15 18311 GHULAM MUJTABA INAYATULLAH SAMEJO Sukkur R 73.927 ME-K
+16 17389 Afaque Ahmed Abdul Khalique Abbasi Sukkur R 73.074 MT
+17 13702 Mohammad Aslam Khan Mohammad Korai Sukkur R 72.853 ME-K
+18 17026 Kashif Raza Allah Wadhayo Chachar Sukkur R 72.701 PG-K
+19 10546 Inamullah Amanullah Sangi Sukkur R 72.635 TL
+20 20180 Rasheed Ahmed Mir Hassan Junejo Sukkur R 72.392 TL
+21 10819 Umair Aleem Abdul Aleem Bullo Sukkur R 72.128 ES-K
+22 13650 Taqi Haider shahid abbas arain Sukkur R 71.532 SW-K
+23 11420 Taaj Mohammad Shah Abdul Wahab Shah Sayed Sukkur R 71.343 AR
+24 20125 Sardar Khan Abdul Sattar Shanbani Sukkur R 69.672 ES-K
+25 11430 Muslim Hayat Shamas Shamasuddin Jatoi Sukkur R 69.531 ES-K
+26 13747 Ms. Iram Khureshed Ahmed shaikh Sukkur R 68.996 SW-K
+27 17892 TARIQ ALI ALLAH RAKHIYO Jatoi Sukkur R 68.949 PG-K
+28 11107 Sayed Afaque Hussain Shah Sayed Riaz Ahmed Shah Sayed Sukkur R 68.394 TE
+29 13862 Muhammad Aslam Shakeel Ahmed Mako Sukkur R 68.389 PG-K
+30 18737 Safiullah Habibullah Kalwar Sukkur R 67.856 MN
+31 18279 Aftab Ahmed Abdul Fatah Lakho Sukkur R 67.637 PG-K
+32 19191 WAQAR YOUSIF MUHAMMAD YOUSIF KORAI Sukkur R 67.451 CRP
+33 13830 SHOUKAT ALI SHAH MUHAMMAD INDHAR Sukkur R 67.427 MN
+34 11145 NOOR ZAMAN RAFIQUE AHMED JUNEJO Sukkur R 67.125 CRP
+35 17268 Ghulam Mujtaba Qamaruddin Mahesar Sukkur R 66.952 BM
+1 14884 syed shahid ali syed Akhter Ali Syed T.Allahyar U 76.986 ME
+2 11990 HAMAYOUN KHAN SHAHID AHMED KAIM KHANI T.Allahyar U 75.586 ME
+3 25462 FAISAL AHMED FAYAZ AHMED MEMON T.Allahyar U 74.583 BM
+4 12445 Zahid Raza Dhani Bux pitafi T.Allahyar U 71.772 ME
+5 18056 MS. RAMEEN MOHAMMAD FAIQUE QURESHI T.Allahyar U 71.226 SW
+1 14743 MUHAMMAD SALEH MUHAMMAD SIDDIQUE THEBO T.Allahyar R 76.864 CE
+2 15704 Saquaib Ghulam Mustafa Almani T.Allahyar R 76.229 CE
+3 15485 Ms. Zainab Jawaid Jawaid Ahmed Almani T.Allahyar R 73.717 ES
+4 11594 MUHAMMAD AZHAR MUHAMMAD ASHRAF JARWAR T.Allahyar R 71.152 EL
+5 19655 Dolat Ram Mevo Menghwar T.Allahyar R 70.311 EL
+6 15757 Preet Kumar Bharat Kumar Maheshwari T.Allahyar R 69.890 CS
+7 19612 Wajid Ali Haji Muhammad Amin Laghari T.Allahyar R 68.829 PG
+8 17719 Ahtisham khalique Abdul Khalique Ghirano T.Allahyar R 68.796 MTE
+9 25399 MS. ISRA SATTAR ABDUL SATTAR ALMANI T.Allahyar R 67.234 BM
+10 19871 MISBAH UL QULOOB MAKHDOOM ABDUL GHANI SIDDIQUI LANJAR T.Allahyar R 65.064 AR
+11 18633 Ms. Hadiya Javed Javed rehmatullah Khuwaja T.Allahyar R 64.544 CRP
+12 14719 Mazar khan Lal muhammad Rind T.Allahyar R 64.401 CH
+13 11588 SAJJAD AHMED MUHAMMAD HANIF JARWAR T.Allahyar R 64.234 SW
+14 14470 Sarfraz Qayoom Ali Saand T.Allahyar R 62.757 MN
+15 14960 Muhammad Ishaque Muhammad Ibrahim Nizamani T.Allahyar R 62.210 CS
+16 15167 Asadullah Mian Gul Pathan T.Allahyar R 61.975 EE
+17 15970 SIKANDAR ALI MUHAMMAD ARAB PARHYAR T.Allahyar R 61.942 TL
+18 19653 Muhammad Anees Muhammad Hanif Laghari T.Allahyar R 61.767 TL
+19 15034 Ms. Kalsoom Abdul Razzaque Mastoi T.Allahyar R 61.703 TL
+20 14642 Ahmed Habib HabibUllah Memon T.Allahyar R 61.634 CE-K
+21 15481 Asim Jawaid Ahmed Almani T.Allahyar R 61.368 IN-P
+22 16944 Zain Ali Niaz Muhammad Mari Baloch T.Allahyar R 61.007 CRP
+23 16959 Sahal Abdul Razaque Nizamani T.Allahyar R 60.758 TE
+24 15245 Ali Hassan SainDad Maree T.Allahyar R 60.652 EL-K
+25 14687 SHAHJAHAN WAJID ALI T.Allahyar R 60.494 ES-K
+26 16415 Oam parkash Mano KOLHI T.Allahyar R 59.959 MT
+27 15288 Vishal shankar Shankar lal MALHI T.Allahyar R 59.718 MT-P
+1 14907 Ms. Areeba Aziz Abdul Aziz Shaikh T.M.Khan U 69.858 CE
+2 15003 Halar Ahmed Masroor Ahmed Bhatti T.M.Khan U 68.996 ME
+3 14566 GHULAM MUSTAFA MEMON SALEEM AHMED MEMON MEMON T.M.Khan U 64.630 ES
+4 18359 Irshad Ahmed Raja Rind T.M.Khan U 63.245 PG
+1 14783 DILWISH ASHFAQUE AHMED TALPUR T.M.Khan R 77.344 CE
+2 25441 MUHAMMAD SHAMAS MOLY DINO MEMON T.M.Khan R 71.106 BM
+3 17422 Zeeshan Ahmed Ikhtisar Ahmed Abbasi T.M.Khan R 70.436 CE
+4 14564 Shahbaz Ali Noor Muhammad Talpur T.M.Khan R 70.273 EL
+5 14816 Mir Ali Waris Maqsood Ahmed Talpur T.M.Khan R 69.320 EL
+6 25110 Ms. Fazila Muhammad Farooque Nizamani T.M.Khan R 66.559 BM
+7 15564 Ali Haider Mir Ali Bux Talpur Talpur T.M.Khan R 66.512 ME
+8 14621 Awais Ahmed Zahid Ali Talpur T.M.Khan R 65.654 EL
+9 16332 Ghulam Manzer Ghulam Akber Jagsi T.M.Khan R 64.860 ME
+10 17514 Ameer Bux Allah Bux Dars T.M.Khan R 63.824 ES
+11 18159 Muhammad Usama Afzal Muhammad Afzal Qureshi T.M.Khan R 63.367 PG
+12 14694 ZAMAN ULLAH Amanat Ali Arain T.M.Khan R 61.079 MTE
+13 15380 RIZWAN ALI MUMTAZ ALI MAGSI T.M.Khan R 60.982 SW
+14 15362 Muhammad Abbas Akber Ali Qureshi T.M.Khan R 60.242 CH
+15 15402 UZAIF ASHFAQUE AHMED TALPUR T.M.Khan R 59.516 CS
+16 14766 FARAZ AHMED AIJAZ AHMED MEMON T.M.Khan R 59.512 CS
+17 18356 Haseeb Hassan Shah Muhammad Hassan Shah Syed T.M.Khan R 59.246 EL-K
+18 10514 ARSAL AHMED NIAZ AHMED PATOLI T.M.Khan R 57.990 SW
+19 15026 Allah Nawaz Haji Shah Muhammad Sathio T.M.Khan R 57.537 MN-P
+20 17435 Zulfiqar Ali Muhammad Ibraheem Lashari T.M.Khan R 57.425 SW
+21 10775 Safder Ameer Ameer-u-Din Talpur T.M.Khan R 57.403 TL
+22 14892 Gohaur Ayoob Asad ullah Qazi T.M.Khan R 57.163 AR
+23 14661 Muhammad Bakhsh Muhammad Aslam Katiar T.M.Khan R 56.971 TL
+24 15098 Tufail Ahmed Ahmed Nawaz Jamali T.M.Khan R 56.370 IN
+25 15257 MUHAMMAD MUNSHA AISH MUHAMMAD QURESHI T.M.Khan R 55.827 EE
+26 15244 AWAIS GHULAM ABBAS HALEPOTO T.M.Khan R 55.414 TE
+27 15100 JUNAID AHMED MUKHTIAR ALI JAMALI T.M.Khan R 54.832 PG-K
+28 14575 Fawad Hassan Ghulam Naqi Laghari T.M.Khan R 54.364 SW-K
+29 14690 ZULQARNEN Salamat Ali Arain T.M.Khan R 54.273 TE
+30 14785 NAEEM NAWAZ SHAH NAWAZ SINDHU T.M.Khan R 53.352 CRP
+31 19895 Ihsan ullah Naimat ullah Jagsi T.M.Khan R 53.334 MT
+1 17511 MUNESH NEEBO MEGHWAR Tharparkar R 84.686 CE
+2 12390 Kush Pratab Rai Lohana Tharparkar R 82.121 EL
+3 12375 Muhammad Younis Muhammad Rahim Samejo Tharparkar R 77.621 CE
+4 17722 Abdul Salam Manzoor Ahmed Junejo Tharparkar R 74.825 ME
+5 14817 Shahid Samand Raidhan khan Mahar Tharparkar R 74.554 CE
+6 14885 Chater Singh Soorto Tharparkar R 73.172 CE
+7 17086 Parkash Kumar Paras Ram Meghwar Tharparkar R 72.844 CE
+8 12383 Imtiaz Ali Muhammad Soomar Kumbhar Tharparkar R 72.658 EL
+9 25355 Ms. JHARNA SATRAM MAHESHWARI MAHESHWARI Tharparkar R 72.253 BM
+10 20184 Yasir Ali Shah Munwar Ali Shah Syed Tharparkar R 71.958 EL
+11 25236 Sanjay Kumar Shanker Sagar Lohana Tharparkar R 71.798 BM
+12 19434 MS. ANMOL ASHOK KUMAR LOHANA Tharparkar R 71.495 SW
+13 18736 JAGDESH HANJHO MEGHWAR Tharparkar R 71.461 EL
+14 14860 IMRANULLAH JAN MOHAMMAD RIND BALOCH Tharparkar R 71.379 EL
+15 14827 Diljeet kumar Tulsidas gunesani Suthar Tharparkar R 71.349 ME
+16 15254 Mehtab Alam Sawai MeNghwar Tharparkar R 71.290 ME
+17 17100 SHAHDEV SURESH KUMAR MAHESHWARI Tharparkar R 71.191 ES
+18 18381 Jan Sher Sher Muhammad Rahimoon Tharparkar R 71.145 ME
+19 17264 NazimUddin Mohammad Mangan Janjhi Tharparkar R 71.117 ME
+20 18320 Rohat Kumar JetoMal Meghwar Tharparkar R 71.108 MN
+21 16655 PIRBHAT KUMAR TEERATH KUMAR LOHANA Tharparkar R 71.011 MTE
+22 17619 GIRDHARI LAL KESRO MEGHWAR Tharparkar R 70.813 ES
+23 19782 Ms. maryam saeed saeed ahmed Memon Tharparkar R 70.410 ES
+24 11992 Karan Kumar Pahlaj Rai Brahman Tharparkar R 70.272 ES
+25 19947 MS. Kajal Om parkash Tharparkar R 69.980 CS
+26 15409 RAMESH KUMAR KIRSHAN LAL MEGHWAR Tharparkar R 69.690 SW
+27 12006 HASHIM KHAIR MUHAMMAD RAHIMOON Tharparkar R 69.503 ME-K
+28 12032 DILAWAR IQBAL MUHAMMAD IQBAL NOHRI Tharparkar R 69.213 SW
+29 19866 Vinod Kumar Lachhman Das Bheel Tharparkar R 69.114 SW
+30 15684 Prithvi Raj Kailash Karmani Tharparkar R 69.064 MTE
+31 14787 HEETESH KUMAR ASHOK KUMAR MALHI Tharparkar R 68.979 PG
+32 16480 Parkash Rai Ajo Meghwar Tharparkar R 68.752 CS
+33 17535 PIRTHEVIRAJ MISSRIMAL MEGHWAR Tharparkar R 68.751 CS
+34 17438 Parkash Khamiso Meghwar Tharparkar R 68.719 CS
+35 19925 Jalwat Singh Maha Singh Rajput Tharparkar R 68.717 TL
+36 11923 KheemParkash Dharmani Girdhari Dharmani Dharmani Tharparkar R 68.485 CH
+37 15688 MAHTAB RAMCHAND SAJNANI Tharparkar R 67.952 PG
+38 19267 SHABI U DDIN UMER U DDIN RAHIMOON Tharparkar R 67.911 CE-K
+39 19914 Nawal Rai Chetan Meghwar Tharparkar R 67.836 TL
+40 14988 Mumtaz Ali Muhammad Saleem Samejo Tharparkar R 67.735 EL-K
+41 17309 Naresh Sambho Soother Tharparkar R 67.637 MN
+42 12079 MUHAMMAD SHAHARYAR MUHAMMAD KHALID MEMON MEMON Tharparkar R 67.632 TL
+43 14589 Dewan Prem Meghwar Tharparkar R 67.598 MN
+44 16022 OM PARKASH ARAB MANGHWAR Tharparkar R 67.181 TL
+45 20110 Kirshan singh Amer singh Rajput Tharparkar R 67.077 CH
+46 17684 MANJI SHAGAN KOLHI Tharparkar R 66.807 EE
+47 18743 Manzoor Ahmed Shakerudin Rahimoon Tharparkar R 66.489 IN
+48 19727 Shanker Lal Harji Meghwar Tharparkar R 66.485 EE
+49 12036 QAMAR UL DIN KAMAL UL DIN NOHRI Tharparkar R 66.447 IN
+50 11699 SUNEEL KUMAR Manseengh rajani HARIJAN Tharparkar R 66.187 MT
+51 14831 Nagji BhamroJi Thakur Tharparkar R 65.939 AR
+52 20435 SURESH KUMAR ANOPO BRAHMAN Tharparkar R 65.935 TE
+53 20178 MOHAMMAD SALEEM KAMAL ULDIN NOHRI Tharparkar R 65.573 TE
+54 15323 NAMET SADHU MAL HEERANI Tharparkar R 65.501 AR
+55 14559 SUNIL KUMAR LEKHU MAL Menghwar Tharparkar R 65.356 TE
+56 15184 Ghulam Rahim Muhammad Achar Rahimoon Tharparkar R 65.286 SW-K
+57 17462 Azizullah Muhammad Soomar Rahimoon Tharparkar R 65.132 ES-K
+58 11975 VIJEET KUMAR ABHEMUNIO MAHESHWARI Tharparkar R 65.049 CRP
+59 14767 Bhawani Shanker Dharmani Chahno Dharmani Meghwar Tharparkar R 65.042 CRP
+60 13290 Ms. Raheela Muhammad soomar Rahimoon Tharparkar R 64.977 CRP
+61 16036 OM PARKASH TANU MAL MEGHWAR Tharparkar R 64.965 MT
+62 16653 Karan Kumar Kamlesh Maheshwari Tharparkar R 64.533 PG-K
+63 17880 VIDESH VISHAN DAS JAI PAL Tharparkar R 64.219 MT
+1 19400 Shaheer Ahmed Muhammad Rizwan Awan Thatta R 70.484 CE
+2 14734 Muhammad Sultan Muhammad Sabir Danish Shaikh Thatta R 68.907 SW
+3 15164 GHULAM MUSTAFA MUHAMMAD ALI PALIJO Thatta R 68.828 CE
+4 14611 ABDUL SAMAD SAMOO RAFIQUE AHMED SAMOO Thatta R 68.823 CE
+5 25370 Ms. mahrukh Muhammad jHAngir Khan lashari baloch Thatta R 68.690 BM
+6 14750 MUJEEBULLAH SHAFI MUHAMMAD JOKHIO Thatta R 68.273 EL
+7 19177 Shahzaib Dr. Muhammad Shabir Awan Thatta R 66.106 EL
+8 18197 Shahzeb Ali Asif Ali Rajput Thatta R 64.517 SW
+9 15060 KHALIL UL REHMAN GHULAM NABI JATT Thatta R 63.931 EL
+10 18250 Waqar Shafqat Safqat Javed Arain Thatta R 62.634 SW
+11 14711 SHAHZAIB HASSAN MUHAMMAD HASSAN PALIJO Thatta R 62.082 ME
+12 18233 MS. USHA KUMARI NAND LAL DEWANI DEWANI Thatta R 60.394 CS
+13 19451 MS. ANAM ABDUL KHALIQUE MEMON Thatta R 60.179 CS
+14 10902 Sameer Ahmed Sanaullah jokhio Thatta R 59.434 ME
+15 15160 Ghulam Muhammad Hanif Abdul Ghafoor Palijo Thatta R 58.878 ME
+16 10920 Fahad Mumtaz Qureshi Mumtaz Hassan Qureshi Qureshi Thatta R 58.331 ME
+17 15170 Gibran Khalil Khalil Ahmed Buriro Thatta R 58.168 MTE
+18 16093 Muhammad Umair Akhtar Ali Thatta R 58.048 PG
+19 19455 Ms. fazila bano muhammad yousif memon Thatta R 57.735 CH
+20 14723 Habib Rehman Samiullah Jokhio Thatta R 57.269 CS
+21 15389 Muhammad Ali Dr. Taj Muhammad palijo Thatta R 56.541 ES
+22 15033 ahmed ali imam dino memon Thatta R 56.460 ES
+23 16337 GHUFRAN ABDUL KHALIQUE MEMON Thatta R 56.342 CH
+24 19831 Hyder Bux Gul Hassan Janwari Baloch Thatta R 56.213 MT
+25 15999 vinesh kumar Mohan Dass Hindu Thatta R 54.837 TL
+26 18609 SHAHRAM FURQAN FURQAN AHMED SHAIKH Thatta R 54.160 IN
+27 11170 Shahzhob Mumtaz Ahmed Memon Thatta R 53.643 TL
+28 15168 Abdul Rahim Abdul Aziz Soomro Thatta R 53.551 AR
+29 13371 Jahanzeb Khursheed Ahmed Abbasi Thatta R 53.531 EL-K
+30 15105 SAHIB DINO ZULFIQAR ALI KHOWAJA Thatta R 52.363 MT
+31 15371 DOLAT RAM SUKH RAM LOHANA Thatta R 50.398 IN
+32 15162 GHULAM DASTAGIR MUHAMMAD ALI PALIJO Thatta R 50.383 ME-K
+33 14963 ASHIQUE ALI GHULAM RASOOL DAL Thatta R 50.322 EE
+1 12611 Ranveer Singh Chatar Singh Rajput Sodho Umerkot R 82.478 CE
+2 12844 Nand Lal Lal Chand Khatri Umerkot R 79.522 SW
+3 12557 Dar shan Shiree Ram Meghwar Umerkot R 78.556 CE
+4 14338 Sheraz Ali Liaqat Ali Umerkot R 78.450 CE
+5 19988 Suhail Kumar Ogam Menghwar Umerkot R 78.182 EL
+6 17211 MEHANDAR KUMAR BEERAM BHEEL Umerkot R 78.103 EL
+7 12861 DURJAN KUMAR LOONO BAJEER Umerkot R 77.592 ME
+8 14262 Ms.Pooja Kumari Chetan Kumar Malhi Rajput Umerkot R 77.494 SW
+9 15659 Haresh Kumar Mannoo Meghwar Umerkot R 76.597 SW
+10 19298 Karan kumar Vikram kumar Maheshwari Umerkot R 76.167 EL
+11 16142 GUNES KHEEMON MENGHWAR Umerkot R 76.129 MTE
+12 17538 HISSAM RAZA MOHAMMAD HAFIZ QAZI Umerkot R 76.058 CE-K
+13 13778 PARDEEP KUMAR HAREESH KUMAR SOOTHAR Umerkot R 75.699 ES
+14 25039 Ms. Aisha Akram Muhammad Akram Arain Umerkot R 75.095 BM
+15 14190 NAND LAL BHEEMOON MEGHWAR Umerkot R 74.283 ME
+16 13133 UMER HAYYAT MOHAMMAD LIAQUAT ARAIN Umerkot R 74.280 ME
+17 12750 Padam Rai Naroo Meghwar Umerkot R 73.561 CS
+18 15624 Hari Ram Dansingh Kolhi Umerkot R 73.499 ES
+19 13124 Jamsher Muhammad Ayoob Bhanbhro Umerkot R 73.390 CS
+20 25150 Abdul Hafeez Talib Hussain Bhatti Rajput Umerkot R 73.234 BM
+21 12977 Raja Manesh Kumar Herchand Malhi Umerkot R 73.024 CS
+22 17039 Rajesh Kumar Suresh Chandar Meheshwari Umerkot R 72.993 ES
+23 15638 Munesh kumar Bansi lal Malhi Umerkot R 72.543 TL
+24 12747 MADAN LAL RAJESH SOOTHAR Umerkot R 71.624 TL
+25 19254 Rawal Kumar Narain Das Menghwar Umerkot R 71.276 CH
+26 14238 Vijay Kumar Chetan Kumar Rajput Umerkot R 71.230 TL
+27 14047 SANJAY KUMAR VISHNO MENGHWAR Umerkot R 70.388 AR
+28 19710 Waqas Ali Muhammad Ashraf KunbhAr Umerkot R 70.275 PG
+29 20528 Ms. ALISHA KOMAL MUHAMMAD SARWAR ARAIN Umerkot R 70.227 TE
+30 17336 MOHAMMAD NASEEM MOHAMMAD AMIN SOOMRO Umerkot R 70.085 ME-K
+31 13174 DILAWAR HUSSAIN SHAH MUHAMMAD RIND Umerkot R 69.665 CH
+32 13168 BABAR ALI GHULAM RASOOL SHEIKH Umerkot R 69.650 IN
+33 12745 Muhammad Irtza Muhammad Jamil Arain Umerkot R 69.197 PG
+34 12534 MUHAMMAD SAQIB MUHAMMAD SULEMAN GURGAIGE Umerkot R 69.098 PG-K
+35 20260 Dhanesh Kumar Lakhmichand Meghwar Umerkot R 68.751 AR
+36 13215 MUDASSAR AHMED MUBASHER AHMED KHATANA AHMADI Umerkot R 68.627 SW-K
+37 12663 sunil kumar Bhawani shanker mahesh wari Umerkot R 68.559 CRP
+38 18254 Dileep kumar Bhoomji Kolhi Umerkot R 68.248 ES-K
+39 16256 Mohammad Saleem Khuda Bux Maher Umerkot R 67.879 CRP
+40 15747 Vikram Singh Jetmal Singh Sodho Umerkot R 67.766 EE
+41 13172 Zaheer Ahmed Ahmed Din Mehar Umerkot R 67.705 IN-P
+42 19246 MS. Samina Khuda Bux Mangrio Umerkot R 66.939 TE
+43 12511 Ali Mohsin Ali Hassan Khoso Baloch Umerkot R 66.809 MN
+44 14164 Pawan Kumar Shiv Lal Menghwar Umerkot R 66.461 MN
+45 14259 HANS RAJ SATRAM DAS KACHI Umerkot R 65.894 MT
